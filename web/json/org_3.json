@@ -1,0 +1,3082 @@
+[
+    {
+      "ORG_NO": "256",
+      "ORG_NAME": "หน่วยบ้านต้า",
+      "BASE_ORG_NO": "84"
+    },
+    {
+      "ORG_NO": "512",
+      "ORG_NAME": "หน่วยแยกท่าตอน",
+      "BASE_ORG_NO": "492"
+    },
+    {
+      "ORG_NO": "769",
+      "ORG_NAME": "หน่วยบ้านเขว้า",
+      "BASE_ORG_NO": "761"
+    },
+    {
+      "ORG_NO": "1281",
+      "ORG_NAME": "หน่วยเลาขวัญ",
+      "BASE_ORG_NO": "689"
+    },
+    {
+      "ORG_NO": "258",
+      "ORG_NAME": "หน่วยไพศาลี",
+      "BASE_ORG_NO": "9"
+    },
+    {
+      "ORG_NO": "1794",
+      "ORG_NAME": "หน่วยตลิ่งสูง",
+      "BASE_ORG_NO": "442"
+    },
+    {
+      "ORG_NO": "3",
+      "ORG_NAME": "หน่วยลำปาง",
+      "BASE_ORG_NO": "31"
+    },
+    {
+      "ORG_NO": "1027",
+      "ORG_NAME": "หน่วยพนมทวน",
+      "BASE_ORG_NO": "1019"
+    },
+    {
+      "ORG_NO": "1283",
+      "ORG_NAME": "หน่วยบ้านตึก",
+      "BASE_ORG_NO": "14"
+    },
+    {
+      "ORG_NO": "1539",
+      "ORG_NAME": "หน่วยท่าช้างสิงห์บุรี",
+      "BASE_ORG_NO": "729"
+    },
+    {
+      "ORG_NO": "4",
+      "ORG_NAME": "หน่วยสวรรคโลก",
+      "BASE_ORG_NO": "52"
+    },
+    {
+      "ORG_NO": "260",
+      "ORG_NAME": "หน่วยหนองไผ่",
+      "BASE_ORG_NO": "82"
+    },
+    {
+      "ORG_NO": "516",
+      "ORG_NAME": "หน่วยบ้านใหม่พิษณุโลก",
+      "BASE_ORG_NO": "328"
+    },
+    {
+      "ORG_NO": "773",
+      "ORG_NAME": "หน่วยลพบุรี",
+      "BASE_ORG_NO": "346"
+    },
+    {
+      "ORG_NO": "6",
+      "ORG_NAME": "หน่วยพิษณุโลก",
+      "BASE_ORG_NO": "66"
+    },
+    {
+      "ORG_NO": "262",
+      "ORG_NAME": "หน่วยภูผาม่าน",
+      "BASE_ORG_NO": "247"
+    },
+    {
+      "ORG_NO": "1798",
+      "ORG_NAME": "หน่วยแม่กะสี",
+      "BASE_ORG_NO": "442"
+    },
+    {
+      "ORG_NO": "1031",
+      "ORG_NAME": "หน่วยดอนคา",
+      "BASE_ORG_NO": "705"
+    },
+    {
+      "ORG_NO": "1287",
+      "ORG_NAME": "หน่วยจัตุรัส",
+      "BASE_ORG_NO": "1285"
+    },
+    {
+      "ORG_NO": "1543",
+      "ORG_NAME": "หน่วยสามโก้",
+      "BASE_ORG_NO": "717"
+    },
+    {
+      "ORG_NO": "264",
+      "ORG_NAME": "หน่วยบ้านมหาโพธิ์",
+      "BASE_ORG_NO": "114"
+    },
+    {
+      "ORG_NO": "520",
+      "ORG_NAME": "หน่วยปลักแรด",
+      "BASE_ORG_NO": "328"
+    },
+    {
+      "ORG_NO": "1289",
+      "ORG_NAME": "หน่วยซับใหญ่",
+      "BASE_ORG_NO": "1285"
+    },
+    {
+      "ORG_NO": "1801",
+      "ORG_NAME": "หน่วยประดู่ยืน",
+      "BASE_ORG_NO": "454"
+    },
+    {
+      "ORG_NO": "266",
+      "ORG_NAME": "หน่วยบ้านเวียง",
+      "BASE_ORG_NO": "124"
+    },
+    {
+      "ORG_NO": "1802",
+      "ORG_NAME": "หน่วยบ้านหนองรัก",
+      "BASE_ORG_NO": "454"
+    },
+    {
+      "ORG_NO": "11",
+      "ORG_NAME": "หน่วยลับแล",
+      "BASE_ORG_NO": "24"
+    },
+    {
+      "ORG_NO": "1035",
+      "ORG_NAME": "หน่วยป่าโมก",
+      "BASE_ORG_NO": "717"
+    },
+    {
+      "ORG_NO": "1291",
+      "ORG_NAME": "หน่วยหนองบัวระเหว",
+      "BASE_ORG_NO": "1285"
+    },
+    {
+      "ORG_NO": "1547",
+      "ORG_NAME": "หน่วยหนองปรือ",
+      "BASE_ORG_NO": "689"
+    },
+    {
+      "ORG_NO": "781",
+      "ORG_NAME": "หน่วยพัฒนานิคม",
+      "BASE_ORG_NO": "777"
+    },
+    {
+      "ORG_NO": "1037",
+      "ORG_NAME": "หน่วยนางลือ",
+      "BASE_ORG_NO": "324"
+    },
+    {
+      "ORG_NO": "1293",
+      "ORG_NAME": "หน่วยเทพสถิต",
+      "BASE_ORG_NO": "1285"
+    },
+    {
+      "ORG_NO": "1805",
+      "ORG_NAME": "หน่วยหนองจอก",
+      "BASE_ORG_NO": "1005"
+    },
+    {
+      "ORG_NO": "270",
+      "ORG_NAME": "หน่วยปากกาง",
+      "BASE_ORG_NO": "129"
+    },
+    {
+      "ORG_NO": "1806",
+      "ORG_NAME": "หน่วยแม่ระมาด",
+      "BASE_ORG_NO": "1189"
+    },
+    {
+      "ORG_NO": "1295",
+      "ORG_NAME": "หน่วยสี่แยกบ้านใหม่",
+      "BASE_ORG_NO": "1067"
+    },
+    {
+      "ORG_NO": "1551",
+      "ORG_NAME": "หน่วยห้วยกรด",
+      "BASE_ORG_NO": "324"
+    },
+    {
+      "ORG_NO": "17",
+      "ORG_NAME": "หน่วยนาน้อย",
+      "BASE_ORG_NO": "49"
+    },
+    {
+      "ORG_NO": "785",
+      "ORG_NAME": "หน่วยบ้านหมี่",
+      "BASE_ORG_NO": "346"
+    },
+    {
+      "ORG_NO": "1041",
+      "ORG_NAME": "หน่วยหนองมะโมง",
+      "BASE_ORG_NO": "324"
+    },
+    {
+      "ORG_NO": "1297",
+      "ORG_NAME": "หน่วยหนองบัวโคก",
+      "BASE_ORG_NO": "1285"
+    },
+    {
+      "ORG_NO": "1809",
+      "ORG_NAME": "หน่วยแม่จะเรา",
+      "BASE_ORG_NO": "1189"
+    },
+    {
+      "ORG_NO": "274",
+      "ORG_NAME": "หน่วยน้ำชำ",
+      "BASE_ORG_NO": "129"
+    },
+    {
+      "ORG_NO": "1810",
+      "ORG_NAME": "หน่วยซอโอ",
+      "BASE_ORG_NO": "1189"
+    },
+    {
+      "ORG_NO": "531",
+      "ORG_NAME": "หน่วยชนบท",
+      "BASE_ORG_NO": "523"
+    },
+    {
+      "ORG_NO": "1043",
+      "ORG_NAME": "หน่วยฆะมัง",
+      "BASE_ORG_NO": "753"
+    },
+    {
+      "ORG_NO": "1555",
+      "ORG_NAME": "หน่วยห้วยกระเจา",
+      "BASE_ORG_NO": "705"
+    },
+    {
+      "ORG_NO": "20",
+      "ORG_NAME": "หน่วยบ้านเกาะ",
+      "BASE_ORG_NO": "2"
+    },
+    {
+      "ORG_NO": "21",
+      "ORG_NAME": "หน่วยหมอนไม้",
+      "BASE_ORG_NO": "2"
+    },
+    {
+      "ORG_NO": "789",
+      "ORG_NAME": "หน่วยภูดิน",
+      "BASE_ORG_NO": "247"
+    },
+    {
+      "ORG_NO": "1301",
+      "ORG_NAME": "หน่วยนครนายก",
+      "BASE_ORG_NO": "1299"
+    },
+    {
+      "ORG_NO": "1813",
+      "ORG_NAME": "หน่วยท่าไม้",
+      "BASE_ORG_NO": "140"
+    },
+    {
+      "ORG_NO": "22",
+      "ORG_NAME": "หน่วยวังกะพี้",
+      "BASE_ORG_NO": "2"
+    },
+    {
+      "ORG_NO": "278",
+      "ORG_NAME": "หน่วยทุ่งกวาว",
+      "BASE_ORG_NO": "114"
+    },
+    {
+      "ORG_NO": "23",
+      "ORG_NAME": "หน่วยหัวดง",
+      "BASE_ORG_NO": "24"
+    },
+    {
+      "ORG_NO": "535",
+      "ORG_NAME": "หน่วยขอนแก่น",
+      "BASE_ORG_NO": "420"
+    },
+    {
+      "ORG_NO": "1047",
+      "ORG_NAME": "หน่วยหนองกุลา",
+      "BASE_ORG_NO": "328"
+    },
+    {
+      "ORG_NO": "1303",
+      "ORG_NAME": "หน่วยวิหารแดง",
+      "BASE_ORG_NO": "1299"
+    },
+    {
+      "ORG_NO": "1559",
+      "ORG_NAME": "หน่วยหนองกลับ",
+      "BASE_ORG_NO": "8"
+    },
+    {
+      "ORG_NO": "25",
+      "ORG_NAME": "หน่วยฝายหลวง",
+      "BASE_ORG_NO": "24"
+    },
+    {
+      "ORG_NO": "793",
+      "ORG_NAME": "หน่วยโคกสูงสัมพันธ์",
+      "BASE_ORG_NO": "356"
+    },
+    {
+      "ORG_NO": "1305",
+      "ORG_NAME": "หน่วยแก่งคอย",
+      "BASE_ORG_NO": "1143"
+    },
+    {
+      "ORG_NO": "1817",
+      "ORG_NAME": "หน่วยบ่อแก้ว",
+      "BASE_ORG_NO": "140"
+    },
+    {
+      "ORG_NO": "26",
+      "ORG_NAME": "หน่วยทองแสนขัน",
+      "BASE_ORG_NO": "12"
+    },
+    {
+      "ORG_NO": "282",
+      "ORG_NAME": "หน่วยร้องเข็ม",
+      "BASE_ORG_NO": "124"
+    },
+    {
+      "ORG_NO": "1306",
+      "ORG_NAME": "หน่วยบ้านใหม่ไชยพจน์",
+      "BASE_ORG_NO": "1257"
+    },
+    {
+      "ORG_NO": "27",
+      "ORG_NAME": "หน่วยฟากท่า",
+      "BASE_ORG_NO": "12"
+    },
+    {
+      "ORG_NO": "539",
+      "ORG_NAME": "หน่วยเขาสวนกวาง",
+      "BASE_ORG_NO": "420"
+    },
+    {
+      "ORG_NO": "1051",
+      "ORG_NAME": "หน่วยคลองคะเชนทร์",
+      "BASE_ORG_NO": "927"
+    },
+    {
+      "ORG_NO": "1563",
+      "ORG_NAME": "หน่วยสรอย",
+      "BASE_ORG_NO": "14"
+    },
+    {
+      "ORG_NO": "28",
+      "ORG_NAME": "หน่วยคุ้งตะเภา",
+      "BASE_ORG_NO": "15"
+    },
+    {
+      "ORG_NO": "284",
+      "ORG_NAME": "หน่วยปางค่า",
+      "BASE_ORG_NO": "5"
+    },
+    {
+      "ORG_NO": "29",
+      "ORG_NAME": "หน่วยท่าปลา",
+      "BASE_ORG_NO": "15"
+    },
+    {
+      "ORG_NO": "797",
+      "ORG_NAME": "หน่วยหนองกุงศรี",
+      "BASE_ORG_NO": "801"
+    },
+    {
+      "ORG_NO": "1309",
+      "ORG_NAME": "หน่วยโนนสะอาด",
+      "BASE_ORG_NO": "640"
+    },
+    {
+      "ORG_NO": "1821",
+      "ORG_NAME": "หน่วยท่าพุทรา",
+      "BASE_ORG_NO": "157"
+    },
+    {
+      "ORG_NO": "30",
+      "ORG_NAME": "หน่วยแซดเดิ้ล",
+      "BASE_ORG_NO": "15"
+    },
+    {
+      "ORG_NO": "286",
+      "ORG_NAME": "หน่วยเชียงของ",
+      "BASE_ORG_NO": "84"
+    },
+    {
+      "ORG_NO": "543",
+      "ORG_NAME": "หน่วยโคกสี",
+      "BASE_ORG_NO": "809"
+    },
+    {
+      "ORG_NO": "1055",
+      "ORG_NAME": "หน่วยบ้านแยง",
+      "BASE_ORG_NO": "65"
+    },
+    {
+      "ORG_NO": "1311",
+      "ORG_NAME": "หน่วยกู่แก้ว",
+      "BASE_ORG_NO": "640"
+    },
+    {
+      "ORG_NO": "1567",
+      "ORG_NAME": "หน่วยวังน้ำขาว",
+      "BASE_ORG_NO": "55"
+    },
+    {
+      "ORG_NO": "32",
+      "ORG_NAME": "หน่วยต้นยาง",
+      "BASE_ORG_NO": "31"
+    },
+    {
+      "ORG_NO": "1312",
+      "ORG_NAME": "หน่วยวังยาง",
+      "BASE_ORG_NO": "1085"
+    },
+    {
+      "ORG_NO": "33",
+      "ORG_NAME": "หน่วยแม่ทะ",
+      "BASE_ORG_NO": "31"
+    },
+    {
+      "ORG_NO": "1313",
+      "ORG_NAME": "หน่วยเต่างอย",
+      "BASE_ORG_NO": "674"
+    },
+    {
+      "ORG_NO": "1825",
+      "ORG_NAME": "หน่วยบึงบ้าน",
+      "BASE_ORG_NO": "157"
+    },
+    {
+      "ORG_NO": "34",
+      "ORG_NAME": "หน่วยดู่เหนือ",
+      "BASE_ORG_NO": "5"
+    },
+    {
+      "ORG_NO": "1826",
+      "ORG_NAME": "หน่วยวัดสิงห์",
+      "BASE_ORG_NO": "324"
+    },
+    {
+      "ORG_NO": "35",
+      "ORG_NAME": "หน่วยภูเพียง",
+      "BASE_ORG_NO": "5"
+    },
+    {
+      "ORG_NO": "1059",
+      "ORG_NAME": "หน่วยศรีมงคล",
+      "BASE_ORG_NO": "9"
+    },
+    {
+      "ORG_NO": "1315",
+      "ORG_NAME": "หน่วยสร้างขุ่ย",
+      "BASE_ORG_NO": "654"
+    },
+    {
+      "ORG_NO": "1571",
+      "ORG_NAME": "หน่วยวังแขม",
+      "BASE_ORG_NO": "157"
+    },
+    {
+      "ORG_NO": "1827",
+      "ORG_NAME": "หน่วยอินทร์บุรี",
+      "BASE_ORG_NO": "729"
+    },
+    {
+      "ORG_NO": "36",
+      "ORG_NAME": "หน่วยแม่จริม",
+      "BASE_ORG_NO": "49"
+    },
+    {
+      "ORG_NO": "1316",
+      "ORG_NAME": "หน่วยปากคลอง",
+      "BASE_ORG_NO": "13"
+    },
+    {
+      "ORG_NO": "37",
+      "ORG_NAME": "หน่วยสันติสุข",
+      "BASE_ORG_NO": "38"
+    },
+    {
+      "ORG_NO": "549",
+      "ORG_NAME": "หน่วยหนองสองห้อง",
+      "BASE_ORG_NO": "545"
+    },
+    {
+      "ORG_NO": "805",
+      "ORG_NAME": "หน่วยคำใหญ่",
+      "BASE_ORG_NO": "801"
+    },
+    {
+      "ORG_NO": "294",
+      "ORG_NAME": "หน่วยห้วยสัก",
+      "BASE_ORG_NO": "290"
+    },
+    {
+      "ORG_NO": "1318",
+      "ORG_NAME": "หน่วยบ่อรัง",
+      "BASE_ORG_NO": "9"
+    },
+    {
+      "ORG_NO": "1063",
+      "ORG_NAME": "หน่วยแม่ริม",
+      "BASE_ORG_NO": "1061"
+    },
+    {
+      "ORG_NO": "1319",
+      "ORG_NAME": "หน่วยกกไม้แดง",
+      "BASE_ORG_NO": "66"
+    },
+    {
+      "ORG_NO": "1575",
+      "ORG_NAME": "หน่วยบ่อถ้ำ",
+      "BASE_ORG_NO": "186"
+    },
+    {
+      "ORG_NO": "1831",
+      "ORG_NAME": "หน่วยไชโย",
+      "BASE_ORG_NO": "717"
+    },
+    {
+      "ORG_NO": "40",
+      "ORG_NAME": "หน่วยศิลาเพชร",
+      "BASE_ORG_NO": "38"
+    },
+    {
+      "ORG_NO": "41",
+      "ORG_NAME": "หน่วยเชียงกลาง",
+      "BASE_ORG_NO": "10"
+    },
+    {
+      "ORG_NO": "553",
+      "ORG_NAME": "หน่วยโนนศิลา",
+      "BASE_ORG_NO": "557"
+    },
+    {
+      "ORG_NO": "1065",
+      "ORG_NAME": "หน่วยป่าเหมือด",
+      "BASE_ORG_NO": "1067"
+    },
+    {
+      "ORG_NO": "1321",
+      "ORG_NAME": "หน่วยท่าบัว",
+      "BASE_ORG_NO": "753"
+    },
+    {
+      "ORG_NO": "42",
+      "ORG_NAME": "หน่วยทุ่งช้าง",
+      "BASE_ORG_NO": "10"
+    },
+    {
+      "ORG_NO": "298",
+      "ORG_NAME": "หน่วยล้อมแรด",
+      "BASE_ORG_NO": "45"
+    },
+    {
+      "ORG_NO": "1322",
+      "ORG_NAME": "หน่วยพิจิตร",
+      "BASE_ORG_NO": "927"
+    },
+    {
+      "ORG_NO": "1834",
+      "ORG_NAME": "หน่วยตลาดเขต",
+      "BASE_ORG_NO": "1019"
+    },
+    {
+      "ORG_NO": "43",
+      "ORG_NAME": "หน่วยบ้านปรางค์",
+      "BASE_ORG_NO": "10"
+    },
+    {
+      "ORG_NO": "1579",
+      "ORG_NAME": "หน่วยนาโบสถ์",
+      "BASE_ORG_NO": "749"
+    },
+    {
+      "ORG_NO": "1324",
+      "ORG_NAME": "หน่วยเกาะแก้ว",
+      "BASE_ORG_NO": "81"
+    },
+    {
+      "ORG_NO": "1836",
+      "ORG_NAME": "หน่วยบางหลวง",
+      "BASE_ORG_NO": "1019"
+    },
+    {
+      "ORG_NO": "813",
+      "ORG_NAME": "หน่วยห้วยยางดง",
+      "BASE_ORG_NO": "801"
+    },
+    {
+      "ORG_NO": "1069",
+      "ORG_NAME": "หน่วยแม่คือ",
+      "BASE_ORG_NO": "1067"
+    },
+    {
+      "ORG_NO": "46",
+      "ORG_NAME": "หน่วยท่าหลวง",
+      "BASE_ORG_NO": "45"
+    },
+    {
+      "ORG_NO": "302",
+      "ORG_NAME": "หน่วยพระธาตุห้าดวง",
+      "BASE_ORG_NO": "167"
+    },
+    {
+      "ORG_NO": "1326",
+      "ORG_NAME": "หน่วยดูนสาด",
+      "BASE_ORG_NO": "358"
+    },
+    {
+      "ORG_NO": "47",
+      "ORG_NAME": "หน่วยเกาะคา",
+      "BASE_ORG_NO": "16"
+    },
+    {
+      "ORG_NO": "1071",
+      "ORG_NAME": "หน่วยเชียงดาว",
+      "BASE_ORG_NO": "1061"
+    },
+    {
+      "ORG_NO": "1583",
+      "ORG_NAME": "หน่วยท่าไม้แดง",
+      "BASE_ORG_NO": "749"
+    },
+    {
+      "ORG_NO": "1839",
+      "ORG_NAME": "หน่วยม่วงเฒ่า",
+      "BASE_ORG_NO": "689"
+    },
+    {
+      "ORG_NO": "48",
+      "ORG_NAME": "หน่วยสบปราบ",
+      "BASE_ORG_NO": "45"
+    },
+    {
+      "ORG_NO": "1328",
+      "ORG_NAME": "หน่วยห้วยยาง",
+      "BASE_ORG_NO": "358"
+    },
+    {
+      "ORG_NO": "817",
+      "ORG_NAME": "หน่วยศรีกระนวน",
+      "BASE_ORG_NO": "358"
+    },
+    {
+      "ORG_NO": "1073",
+      "ORG_NAME": "หน่วยสองแคว",
+      "BASE_ORG_NO": "38"
+    },
+    {
+      "ORG_NO": "50",
+      "ORG_NAME": "หน่วยนาหมื่น",
+      "BASE_ORG_NO": "49"
+    },
+    {
+      "ORG_NO": "1330",
+      "ORG_NAME": "หน่วยโจะโหวะ",
+      "BASE_ORG_NO": "18"
+    },
+    {
+      "ORG_NO": "1842",
+      "ORG_NAME": "หน่วยสระกระโจม",
+      "BASE_ORG_NO": "689"
+    },
+    {
+      "ORG_NO": "51",
+      "ORG_NAME": "หน่วยสี่แยกโรงพยาบาล",
+      "BASE_ORG_NO": "52"
+    },
+    {
+      "ORG_NO": "1075",
+      "ORG_NAME": "หน่วยเพ็ญ",
+      "BASE_ORG_NO": "636"
+    },
+    {
+      "ORG_NO": "1331",
+      "ORG_NAME": "หน่วยพวยเด้ง",
+      "BASE_ORG_NO": "179"
+    },
+    {
+      "ORG_NO": "1587",
+      "ORG_NAME": "หน่วยนาบ่อคำ",
+      "BASE_ORG_NO": "384"
+    },
+    {
+      "ORG_NO": "564",
+      "ORG_NAME": "หน่วยหัวฝาย",
+      "BASE_ORG_NO": "560"
+    },
+    {
+      "ORG_NO": "1332",
+      "ORG_NAME": "หน่วยชุมแสงสงคราม",
+      "BASE_ORG_NO": "328"
+    },
+    {
+      "ORG_NO": "53",
+      "ORG_NAME": "หน่วยทุ่งเสลี่ยม",
+      "BASE_ORG_NO": "8"
+    },
+    {
+      "ORG_NO": "821",
+      "ORG_NAME": "หน่วยพระยืน",
+      "BASE_ORG_NO": "523"
+    },
+    {
+      "ORG_NO": "1077",
+      "ORG_NAME": "หน่วยบ้านดุง",
+      "BASE_ORG_NO": "636"
+    },
+    {
+      "ORG_NO": "1845",
+      "ORG_NAME": "หน่วยนาปลากั้ง",
+      "BASE_ORG_NO": "14"
+    },
+    {
+      "ORG_NO": "54",
+      "ORG_NAME": "หน่วยคลองตาล",
+      "BASE_ORG_NO": "8"
+    },
+    {
+      "ORG_NO": "310",
+      "ORG_NAME": "หน่วยดอยเต่า",
+      "BASE_ORG_NO": "223"
+    },
+    {
+      "ORG_NO": "1334",
+      "ORG_NAME": "หน่วยบ้านกลางทรัพย์ไพรวัลย์",
+      "BASE_ORG_NO": "65"
+    },
+    {
+      "ORG_NO": "1079",
+      "ORG_NAME": "หน่วยสามพร้าว",
+      "BASE_ORG_NO": "636"
+    },
+    {
+      "ORG_NO": "1591",
+      "ORG_NAME": "หน่วยท่าขุนราม",
+      "BASE_ORG_NO": "384"
+    },
+    {
+      "ORG_NO": "1847",
+      "ORG_NAME": "หน่วยคลองตาล2",
+      "BASE_ORG_NO": "8"
+    },
+    {
+      "ORG_NO": "312",
+      "ORG_NAME": "หน่วยเวียงหนองล่อง",
+      "BASE_ORG_NO": "223"
+    },
+    {
+      "ORG_NO": "568",
+      "ORG_NAME": "หน่วยเมืองงิม",
+      "BASE_ORG_NO": "560"
+    },
+    {
+      "ORG_NO": "1336",
+      "ORG_NAME": "หน่วยหนองกุงธนสาร",
+      "BASE_ORG_NO": "356"
+    },
+    {
+      "ORG_NO": "57",
+      "ORG_NAME": "หน่วยพญาแมน",
+      "BASE_ORG_NO": "13"
+    },
+    {
+      "ORG_NO": "825",
+      "ORG_NAME": "หน่วยแวงใหญ่",
+      "BASE_ORG_NO": "545"
+    },
+    {
+      "ORG_NO": "1081",
+      "ORG_NAME": "หน่วยศรีธาตุ",
+      "BASE_ORG_NO": "640"
+    },
+    {
+      "ORG_NO": "1337",
+      "ORG_NAME": "หน่วยทรายขาว",
+      "BASE_ORG_NO": "174"
+    },
+    {
+      "ORG_NO": "58",
+      "ORG_NAME": "หน่วยหนองตม",
+      "BASE_ORG_NO": "13"
+    },
+    {
+      "ORG_NO": "314",
+      "ORG_NAME": "หน่วยตาคลี",
+      "BASE_ORG_NO": "268"
+    },
+    {
+      "ORG_NO": "1338",
+      "ORG_NAME": "หน่วยยางหล่อ",
+      "BASE_ORG_NO": "179"
+    },
+    {
+      "ORG_NO": "1850",
+      "ORG_NAME": "หน่วยพระพุทธบาท",
+      "BASE_ORG_NO": "1143"
+    },
+    {
+      "ORG_NO": "59",
+      "ORG_NAME": "หน่วยท่าสัก",
+      "BASE_ORG_NO": "56"
+    },
+    {
+      "ORG_NO": "1083",
+      "ORG_NAME": "หน่วยวังสามหมอ",
+      "BASE_ORG_NO": "640"
+    },
+    {
+      "ORG_NO": "1339",
+      "ORG_NAME": "หน่วยน้ำหนาว",
+      "BASE_ORG_NO": "18"
+    },
+    {
+      "ORG_NO": "1595",
+      "ORG_NAME": "หน่วยหินปัก",
+      "BASE_ORG_NO": "346"
+    },
+    {
+      "ORG_NO": "60",
+      "ORG_NAME": "หน่วยบ้านหม้อ",
+      "BASE_ORG_NO": "13"
+    },
+    {
+      "ORG_NO": "572",
+      "ORG_NAME": "หน่วยบ้านเด่น",
+      "BASE_ORG_NO": "560"
+    },
+    {
+      "ORG_NO": "1340",
+      "ORG_NAME": "หน่วยบ้านขาม",
+      "BASE_ORG_NO": "809"
+    },
+    {
+      "ORG_NO": "61",
+      "ORG_NAME": "หน่วยวังแดง",
+      "BASE_ORG_NO": "56"
+    },
+    {
+      "ORG_NO": "829",
+      "ORG_NAME": "หน่วยหนองนกเขียน",
+      "BASE_ORG_NO": "809"
+    },
+    {
+      "ORG_NO": "1341",
+      "ORG_NAME": "หน่วยกุดขอนแก่น",
+      "BASE_ORG_NO": "356"
+    },
+    {
+      "ORG_NO": "1853",
+      "ORG_NAME": "หน่วยหนองโดน",
+      "BASE_ORG_NO": "1143"
+    },
+    {
+      "ORG_NO": "62",
+      "ORG_NAME": "หน่วยหนองอ้อ",
+      "BASE_ORG_NO": "14"
+    },
+    {
+      "ORG_NO": "318",
+      "ORG_NAME": "หน่วยหางน้ำสาคร",
+      "BASE_ORG_NO": "268"
+    },
+    {
+      "ORG_NO": "1342",
+      "ORG_NAME": "หน่วยบ้านหนองหิน",
+      "BASE_ORG_NO": "801"
+    },
+    {
+      "ORG_NO": "1854",
+      "ORG_NAME": "หน่วยท่าเรือ",
+      "BASE_ORG_NO": "1143"
+    },
+    {
+      "ORG_NO": "63",
+      "ORG_NAME": "หน่วยสี่แยกสารจิตร",
+      "BASE_ORG_NO": "14"
+    },
+    {
+      "ORG_NO": "1087",
+      "ORG_NAME": "หน่วยธาตุพนม",
+      "BASE_ORG_NO": "1085"
+    },
+    {
+      "ORG_NO": "1343",
+      "ORG_NAME": "หน่วยสะอาด",
+      "BASE_ORG_NO": "420"
+    },
+    {
+      "ORG_NO": "1599",
+      "ORG_NAME": "หน่วยเพนียด",
+      "BASE_ORG_NO": "346"
+    },
+    {
+      "ORG_NO": "64",
+      "ORG_NAME": "หน่วยท่าชัย",
+      "BASE_ORG_NO": "52"
+    },
+    {
+      "ORG_NO": "576",
+      "ORG_NAME": "หน่วยป่ายางมน",
+      "BASE_ORG_NO": "560"
+    },
+    {
+      "ORG_NO": "1344",
+      "ORG_NAME": "หน่วยหนองแก",
+      "BASE_ORG_NO": "352"
+    },
+    {
+      "ORG_NO": "1856",
+      "ORG_NAME": "หน่วยภาชี",
+      "BASE_ORG_NO": "1143"
+    },
+    {
+      "ORG_NO": "833",
+      "ORG_NAME": "หน่วยหนองเม็ก",
+      "BASE_ORG_NO": "545"
+    },
+    {
+      "ORG_NO": "1089",
+      "ORG_NAME": "หน่วยเรณูนคร",
+      "BASE_ORG_NO": "1085"
+    },
+    {
+      "ORG_NO": "1857",
+      "ORG_NAME": "หน่วยโคกเจริญเพชรบูรณ์",
+      "BASE_ORG_NO": "82"
+    },
+    {
+      "ORG_NO": "322",
+      "ORG_NAME": "หน่วยท่าตะโก",
+      "BASE_ORG_NO": "268"
+    },
+    {
+      "ORG_NO": "1346",
+      "ORG_NAME": "หน่วยหนองเขียด",
+      "BASE_ORG_NO": "247"
+    },
+    {
+      "ORG_NO": "67",
+      "ORG_NAME": "หน่วยชาติตระการ",
+      "BASE_ORG_NO": "65"
+    },
+    {
+      "ORG_NO": "1091",
+      "ORG_NAME": "หน่วยบ้านง่อน",
+      "BASE_ORG_NO": "654"
+    },
+    {
+      "ORG_NO": "1603",
+      "ORG_NAME": "หน่วยท่าวุ้ง",
+      "BASE_ORG_NO": "346"
+    },
+    {
+      "ORG_NO": "68",
+      "ORG_NAME": "หน่วยสะเดียง",
+      "BASE_ORG_NO": "7"
+    },
+    {
+      "ORG_NO": "1348",
+      "ORG_NAME": "หน่วยโคกไม้งาม",
+      "BASE_ORG_NO": "247"
+    },
+    {
+      "ORG_NO": "837",
+      "ORG_NAME": "หน่วยบ้านเกิ้ง",
+      "BASE_ORG_NO": "557"
+    },
+    {
+      "ORG_NO": "1093",
+      "ORG_NAME": "หน่วยโคกศรีสุพรรณ",
+      "BASE_ORG_NO": "674"
+    },
+    {
+      "ORG_NO": "1861",
+      "ORG_NAME": "หน่วยบ้านโภชน์",
+      "BASE_ORG_NO": "82"
+    },
+    {
+      "ORG_NO": "70",
+      "ORG_NAME": "หน่วยวังชมภู",
+      "BASE_ORG_NO": "7"
+    },
+    {
+      "ORG_NO": "1350",
+      "ORG_NAME": "หน่วยห้วยยางคอนสาร",
+      "BASE_ORG_NO": "247"
+    },
+    {
+      "ORG_NO": "71",
+      "ORG_NAME": "หน่วยบ้านโคก",
+      "BASE_ORG_NO": "69"
+    },
+    {
+      "ORG_NO": "1095",
+      "ORG_NAME": "หน่วยตากฟ้า",
+      "BASE_ORG_NO": "268"
+    },
+    {
+      "ORG_NO": "1607",
+      "ORG_NAME": "หน่วยนิคมลำนารายณ์",
+      "BASE_ORG_NO": "777"
+    },
+    {
+      "ORG_NO": "1863",
+      "ORG_NAME": "หน่วยสี่แยกช่อระกา",
+      "BASE_ORG_NO": "761"
+    },
+    {
+      "ORG_NO": "72",
+      "ORG_NAME": "หน่วยปากน้ำ",
+      "BASE_ORG_NO": "7"
+    },
+    {
+      "ORG_NO": "584",
+      "ORG_NAME": "หน่วยกาดอินทร",
+      "BASE_ORG_NO": "580"
+    },
+    {
+      "ORG_NO": "1352",
+      "ORG_NAME": "หน่วยบ้านลาด",
+      "BASE_ORG_NO": "247"
+    },
+    {
+      "ORG_NO": "73",
+      "ORG_NAME": "หน่วยบ้านติ้ว",
+      "BASE_ORG_NO": "18"
+    },
+    {
+      "ORG_NO": "841",
+      "ORG_NAME": "หน่วยเปือยน้อย",
+      "BASE_ORG_NO": "557"
+    },
+    {
+      "ORG_NO": "1865",
+      "ORG_NAME": "หน่วยหน้าราชภัฎชัยภูมิ",
+      "BASE_ORG_NO": "761"
+    },
+    {
+      "ORG_NO": "74",
+      "ORG_NAME": "หน่วยหล่มเก่า",
+      "BASE_ORG_NO": "18"
+    },
+    {
+      "ORG_NO": "1354",
+      "ORG_NAME": "หน่วยแวงน้อย",
+      "BASE_ORG_NO": "545"
+    },
+    {
+      "ORG_NO": "75",
+      "ORG_NAME": "หน่วยกกกะทอน",
+      "BASE_ORG_NO": "18"
+    },
+    {
+      "ORG_NO": "1099",
+      "ORG_NAME": "หน่วยคณฑี",
+      "BASE_ORG_NO": "157"
+    },
+    {
+      "ORG_NO": "1611",
+      "ORG_NAME": "หน่วยเกาะรัง",
+      "BASE_ORG_NO": "777"
+    },
+    {
+      "ORG_NO": "76",
+      "ORG_NAME": "หน่วยปากช่อง",
+      "BASE_ORG_NO": "19"
+    },
+    {
+      "ORG_NO": "332",
+      "ORG_NAME": "หน่วยทรัพย์ไพรวัลย์",
+      "BASE_ORG_NO": "65"
+    },
+    {
+      "ORG_NO": "588",
+      "ORG_NAME": "หน่วยทากาศ",
+      "BASE_ORG_NO": "580"
+    },
+    {
+      "ORG_NO": "1356",
+      "ORG_NAME": "หน่วยบ้านค้อ",
+      "BASE_ORG_NO": "527"
+    },
+    {
+      "ORG_NO": "1868",
+      "ORG_NAME": "หน่วยบ้านเป้า",
+      "BASE_ORG_NO": "761"
+    },
+    {
+      "ORG_NO": "77",
+      "ORG_NAME": "หน่วยแคมป์สน",
+      "BASE_ORG_NO": "19"
+    },
+    {
+      "ORG_NO": "845",
+      "ORG_NAME": "หน่วยเวียงเก่า",
+      "BASE_ORG_NO": "356"
+    },
+    {
+      "ORG_NO": "1101",
+      "ORG_NAME": "หน่วยบ่อกรุ",
+      "BASE_ORG_NO": "693"
+    },
+    {
+      "ORG_NO": "78",
+      "ORG_NAME": "หน่วยเขาค้อ",
+      "BASE_ORG_NO": "19"
+    },
+    {
+      "ORG_NO": "1358",
+      "ORG_NAME": "หน่วยสาวะถี",
+      "BASE_ORG_NO": "527"
+    },
+    {
+      "ORG_NO": "79",
+      "ORG_NAME": "หน่วยบ้านกลาง",
+      "BASE_ORG_NO": "69"
+    },
+    {
+      "ORG_NO": "1103",
+      "ORG_NAME": "หน่วยหนองฝ้าย",
+      "BASE_ORG_NO": "689"
+    },
+    {
+      "ORG_NO": "1615",
+      "ORG_NAME": "หน่วยห้วยขุนราม",
+      "BASE_ORG_NO": "777"
+    },
+    {
+      "ORG_NO": "80",
+      "ORG_NAME": "หน่วยวิเชียรบุรี",
+      "BASE_ORG_NO": "9"
+    },
+    {
+      "ORG_NO": "336",
+      "ORG_NAME": "หน่วยหนองบัว",
+      "BASE_ORG_NO": "9"
+    },
+    {
+      "ORG_NO": "592",
+      "ORG_NAME": "หน่วยบ้านธิ",
+      "BASE_ORG_NO": "580"
+    },
+    {
+      "ORG_NO": "1616",
+      "ORG_NAME": "หน่วยโคกตูม",
+      "BASE_ORG_NO": "777"
+    },
+    {
+      "ORG_NO": "1872",
+      "ORG_NAME": "หน่วยหนองกุงใหญ่",
+      "BASE_ORG_NO": "358"
+    },
+    {
+      "ORG_NO": "849",
+      "ORG_NAME": "หน่วยดอนโมง",
+      "BASE_ORG_NO": "352"
+    },
+    {
+      "ORG_NO": "1105",
+      "ORG_NAME": "หน่วยทองเอน",
+      "BASE_ORG_NO": "729"
+    },
+    {
+      "ORG_NO": "338",
+      "ORG_NAME": "หน่วยสากเหล็ก",
+      "BASE_ORG_NO": "105"
+    },
+    {
+      "ORG_NO": "83",
+      "ORG_NAME": "หน่วยพุเตย",
+      "BASE_ORG_NO": "81"
+    },
+    {
+      "ORG_NO": "1107",
+      "ORG_NAME": "หน่วยบางกระทุ่ม",
+      "BASE_ORG_NO": "328"
+    },
+    {
+      "ORG_NO": "596",
+      "ORG_NAME": "หน่วยสันป่าตอง",
+      "BASE_ORG_NO": "306"
+    },
+    {
+      "ORG_NO": "1364",
+      "ORG_NAME": "หน่วยไชยสถาน",
+      "BASE_ORG_NO": "5"
+    },
+    {
+      "ORG_NO": "1620",
+      "ORG_NAME": "หน่วยบำเหน็จสุวรรณ",
+      "BASE_ORG_NO": "761"
+    },
+    {
+      "ORG_NO": "853",
+      "ORG_NAME": "หน่วยหนองนาคำ",
+      "BASE_ORG_NO": "356"
+    },
+    {
+      "ORG_NO": "1109",
+      "ORG_NAME": "หน่วยตะพานหิน 2",
+      "BASE_ORG_NO": "753"
+    },
+    {
+      "ORG_NO": "1877",
+      "ORG_NAME": "หน่วยเชียงกลม",
+      "BASE_ORG_NO": "1873"
+    },
+    {
+      "ORG_NO": "86",
+      "ORG_NAME": "หน่วยท่าข้าม",
+      "BASE_ORG_NO": "85"
+    },
+    {
+      "ORG_NO": "342",
+      "ORG_NAME": "หน่วยวังทรายพูน",
+      "BASE_ORG_NO": "105"
+    },
+    {
+      "ORG_NO": "87",
+      "ORG_NAME": "หน่วยวังโป่ง",
+      "BASE_ORG_NO": "85"
+    },
+    {
+      "ORG_NO": "1111",
+      "ORG_NAME": "หน่วยท่าโขลง",
+      "BASE_ORG_NO": "346"
+    },
+    {
+      "ORG_NO": "1879",
+      "ORG_NAME": "หน่วยบ้านธาตุ",
+      "BASE_ORG_NO": "1873"
+    },
+    {
+      "ORG_NO": "600",
+      "ORG_NAME": "หน่วยแม่วาง",
+      "BASE_ORG_NO": "306"
+    },
+    {
+      "ORG_NO": "856",
+      "ORG_NAME": "หน่วยแม่ขะจาน",
+      "BASE_ORG_NO": "170"
+    },
+    {
+      "ORG_NO": "1368",
+      "ORG_NAME": "หน่วยนาหลวง",
+      "BASE_ORG_NO": "49"
+    },
+    {
+      "ORG_NO": "1624",
+      "ORG_NAME": "หน่วยหนองไผ่นครสวรรค์",
+      "BASE_ORG_NO": "9"
+    },
+    {
+      "ORG_NO": "1113",
+      "ORG_NAME": "หน่วยโคกสำโรง",
+      "BASE_ORG_NO": "346"
+    },
+    {
+      "ORG_NO": "1881",
+      "ORG_NAME": "หน่วยปากชม",
+      "BASE_ORG_NO": "1873"
+    },
+    {
+      "ORG_NO": "1882",
+      "ORG_NAME": "หน่วยบ้านดอน",
+      "BASE_ORG_NO": "290"
+    },
+    {
+      "ORG_NO": "1115",
+      "ORG_NAME": "หน่วยหนองรี",
+      "BASE_ORG_NO": "777"
+    },
+    {
+      "ORG_NO": "1883",
+      "ORG_NAME": "หน่วยท่าก๊อ",
+      "BASE_ORG_NO": "170"
+    },
+    {
+      "ORG_NO": "348",
+      "ORG_NAME": "หน่วยภูเขียว",
+      "BASE_ORG_NO": "247"
+    },
+    {
+      "ORG_NO": "604",
+      "ORG_NAME": "หน่วยฮอด",
+      "BASE_ORG_NO": "306"
+    },
+    {
+      "ORG_NO": "860",
+      "ORG_NAME": "หน่วยเวียงป่าเป้า",
+      "BASE_ORG_NO": "170"
+    },
+    {
+      "ORG_NO": "1372",
+      "ORG_NAME": "หน่วยน้ำแวน",
+      "BASE_ORG_NO": "94"
+    },
+    {
+      "ORG_NO": "1628",
+      "ORG_NAME": "หน่วยตะคร้อ",
+      "BASE_ORG_NO": "9"
+    },
+    {
+      "ORG_NO": "1884",
+      "ORG_NAME": "หน่วยแม่ทา",
+      "BASE_ORG_NO": "16"
+    },
+    {
+      "ORG_NO": "1117",
+      "ORG_NAME": "หน่วยวังม่วงสระบุรี",
+      "BASE_ORG_NO": "777"
+    },
+    {
+      "ORG_NO": "1885",
+      "ORG_NAME": "หน่วยสะปุ๋ง",
+      "BASE_ORG_NO": "223"
+    },
+    {
+      "ORG_NO": "1886",
+      "ORG_NAME": "หน่วยท่าข้ามเหนือ",
+      "BASE_ORG_NO": "306"
+    },
+    {
+      "ORG_NO": "95",
+      "ORG_NAME": "หน่วยพญาเม็งราย",
+      "BASE_ORG_NO": "84"
+    },
+    {
+      "ORG_NO": "1119",
+      "ORG_NAME": "หน่วยท่าหลวงลพบุรี",
+      "BASE_ORG_NO": "777"
+    },
+    {
+      "ORG_NO": "1887",
+      "ORG_NAME": "หน่วยทุ่งเสี้ยว",
+      "BASE_ORG_NO": "306"
+    },
+    {
+      "ORG_NO": "96",
+      "ORG_NAME": "หน่วยบ้านไร่",
+      "BASE_ORG_NO": "8"
+    },
+    {
+      "ORG_NO": "608",
+      "ORG_NAME": "หน่วยแม่พริก",
+      "BASE_ORG_NO": "45"
+    },
+    {
+      "ORG_NO": "864",
+      "ORG_NAME": "หน่วยแม่สรวย",
+      "BASE_ORG_NO": "170"
+    },
+    {
+      "ORG_NO": "1120",
+      "ORG_NAME": "หน่วยงิม",
+      "BASE_ORG_NO": "120"
+    },
+    {
+      "ORG_NO": "1376",
+      "ORG_NAME": "หน่วยหน้า ร.พ.งาว",
+      "BASE_ORG_NO": "484"
+    },
+    {
+      "ORG_NO": "1632",
+      "ORG_NAME": "หน่วยตาเนิน",
+      "BASE_ORG_NO": "761"
+    },
+    {
+      "ORG_NO": "1888",
+      "ORG_NAME": "หน่วยน้ำริน",
+      "BASE_ORG_NO": "1061"
+    },
+    {
+      "ORG_NO": "97",
+      "ORG_NAME": "หน่วยพรหมพิราม",
+      "BASE_ORG_NO": "13"
+    },
+    {
+      "ORG_NO": "1889",
+      "ORG_NAME": "หน่วยศรีประดู่",
+      "BASE_ORG_NO": "1061"
+    },
+    {
+      "ORG_NO": "98",
+      "ORG_NAME": "หน่วยสุโขทัย",
+      "BASE_ORG_NO": "55"
+    },
+    {
+      "ORG_NO": "1890",
+      "ORG_NAME": "หน่วยสะเมิง",
+      "BASE_ORG_NO": "1061"
+    },
+    {
+      "ORG_NO": "1891",
+      "ORG_NAME": "หน่วยช่างเคิ่ง",
+      "BASE_ORG_NO": "1275"
+    },
+    {
+      "ORG_NO": "100",
+      "ORG_NAME": "หน่วยคีรีมาศ",
+      "BASE_ORG_NO": "55"
+    },
+    {
+      "ORG_NO": "612",
+      "ORG_NAME": "หน่วยทุ่งหัวช้าง",
+      "BASE_ORG_NO": "167"
+    },
+    {
+      "ORG_NO": "868",
+      "ORG_NAME": "หน่วยบ้านหนองบัว",
+      "BASE_ORG_NO": "170"
+    },
+    {
+      "ORG_NO": "1124",
+      "ORG_NAME": "หน่วยแม่อาย",
+      "BASE_ORG_NO": "1122"
+    },
+    {
+      "ORG_NO": "1380",
+      "ORG_NAME": "หน่วยหน้า ม.พะเยา",
+      "BASE_ORG_NO": "484"
+    },
+    {
+      "ORG_NO": "1636",
+      "ORG_NAME": "หน่วยละหาน",
+      "BASE_ORG_NO": "1285"
+    },
+    {
+      "ORG_NO": "1892",
+      "ORG_NAME": "หน่วยแม่แจ่ม",
+      "BASE_ORG_NO": "1275"
+    },
+    {
+      "ORG_NO": "101",
+      "ORG_NAME": "หน่วยบ้านด่านลานหอย",
+      "BASE_ORG_NO": "55"
+    },
+    {
+      "ORG_NO": "1893",
+      "ORG_NAME": "หน่วยบ้านกลางนครพนม",
+      "BASE_ORG_NO": "1085"
+    },
+    {
+      "ORG_NO": "102",
+      "ORG_NAME": "หน่วยกงไกรลาศ",
+      "BASE_ORG_NO": "55"
+    },
+    {
+      "ORG_NO": "1126",
+      "ORG_NAME": "หน่วยหนองยาว",
+      "BASE_ORG_NO": "1122"
+    },
+    {
+      "ORG_NO": "1894",
+      "ORG_NAME": "หน่วยหนองบัวเริง",
+      "BASE_ORG_NO": "81"
+    },
+    {
+      "ORG_NO": "103",
+      "ORG_NAME": "หน่วยโคกเจริญ",
+      "BASE_ORG_NO": "777"
+    },
+    {
+      "ORG_NO": "104",
+      "ORG_NAME": "หน่วยอำเภอบ้านโคก",
+      "BASE_ORG_NO": "12"
+    },
+    {
+      "ORG_NO": "360",
+      "ORG_NAME": "หน่วยหนองกุง",
+      "BASE_ORG_NO": "809"
+    },
+    {
+      "ORG_NO": "616",
+      "ORG_NAME": "หน่วยพาน",
+      "BASE_ORG_NO": "139"
+    },
+    {
+      "ORG_NO": "872",
+      "ORG_NAME": "หน่วยเจดีย์หลวง",
+      "BASE_ORG_NO": "170"
+    },
+    {
+      "ORG_NO": "1128",
+      "ORG_NAME": "หน่วยฝาง",
+      "BASE_ORG_NO": "1122"
+    },
+    {
+      "ORG_NO": "1384",
+      "ORG_NAME": "หน่วยแยกปากทางดอยอินทนนท์",
+      "BASE_ORG_NO": "306"
+    },
+    {
+      "ORG_NO": "1640",
+      "ORG_NAME": "หน่วยนายางกลัก",
+      "BASE_ORG_NO": "1285"
+    },
+    {
+      "ORG_NO": "106",
+      "ORG_NAME": "หน่วยบึงหลัก",
+      "BASE_ORG_NO": "2"
+    },
+    {
+      "ORG_NO": "362",
+      "ORG_NAME": "หน่วยห้วยเม็ก",
+      "BASE_ORG_NO": "801"
+    },
+    {
+      "ORG_NO": "1130",
+      "ORG_NAME": "หน่วยปากสิงห์",
+      "BASE_ORG_NO": "15"
+    },
+    {
+      "ORG_NO": "107",
+      "ORG_NAME": "หน่วยแม่สิน",
+      "BASE_ORG_NO": "14"
+    },
+    {
+      "ORG_NO": "108",
+      "ORG_NAME": "หน่วยท่าค้ำ",
+      "BASE_ORG_NO": "38"
+    },
+    {
+      "ORG_NO": "620",
+      "ORG_NAME": "หน่วยเหมืองง่า",
+      "BASE_ORG_NO": "139"
+    },
+    {
+      "ORG_NO": "876",
+      "ORG_NAME": "หน่วยดอนสลี",
+      "BASE_ORG_NO": "170"
+    },
+    {
+      "ORG_NO": "1388",
+      "ORG_NAME": "หน่วยสารภี",
+      "BASE_ORG_NO": "580"
+    },
+    {
+      "ORG_NO": "1644",
+      "ORG_NAME": "หน่วยกำแพงดิน",
+      "BASE_ORG_NO": "328"
+    },
+    {
+      "ORG_NO": "109",
+      "ORG_NAME": "หน่วยปง",
+      "BASE_ORG_NO": "120"
+    },
+    {
+      "ORG_NO": "1133",
+      "ORG_NAME": "หน่วยกุดจับ",
+      "BASE_ORG_NO": "1132"
+    },
+    {
+      "ORG_NO": "366",
+      "ORG_NAME": "หน่วยชื่นชม",
+      "BASE_ORG_NO": "358"
+    },
+    {
+      "ORG_NO": "1135",
+      "ORG_NAME": "หน่วยหนองวัวซอ",
+      "BASE_ORG_NO": "1132"
+    },
+    {
+      "ORG_NO": "368",
+      "ORG_NAME": "หน่วยซำสูง",
+      "BASE_ORG_NO": "358"
+    },
+    {
+      "ORG_NO": "880",
+      "ORG_NAME": "หน่วยฝายกวาง",
+      "BASE_ORG_NO": "94"
+    },
+    {
+      "ORG_NO": "1392",
+      "ORG_NAME": "หน่วยหางดง",
+      "BASE_ORG_NO": "580"
+    },
+    {
+      "ORG_NO": "1648",
+      "ORG_NAME": "หน่วยบึงพระ",
+      "BASE_ORG_NO": "328"
+    },
+    {
+      "ORG_NO": "1137",
+      "ORG_NAME": "หน่วยกุดดินจี่",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "115",
+      "ORG_NAME": "หน่วยเด่นชัย",
+      "BASE_ORG_NO": "129"
+    },
+    {
+      "ORG_NO": "1139",
+      "ORG_NAME": "หน่วยท้ายดง",
+      "BASE_ORG_NO": "85"
+    },
+    {
+      "ORG_NO": "116",
+      "ORG_NAME": "หน่วยวังชิ้น",
+      "BASE_ORG_NO": "14"
+    },
+    {
+      "ORG_NO": "372",
+      "ORG_NAME": "หน่วยงาว",
+      "BASE_ORG_NO": "484"
+    },
+    {
+      "ORG_NO": "628",
+      "ORG_NAME": "หน่วยโนนสัง",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "884",
+      "ORG_NAME": "หน่วยสุวรรณคูหา",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "1396",
+      "ORG_NAME": "หน่วยหนองตอง",
+      "BASE_ORG_NO": "580"
+    },
+    {
+      "ORG_NO": "1652",
+      "ORG_NAME": "หน่วยเต็งหนาม",
+      "BASE_ORG_NO": "66"
+    },
+    {
+      "ORG_NO": "117",
+      "ORG_NAME": "หน่วยหนองม่วงไข่",
+      "BASE_ORG_NO": "124"
+    },
+    {
+      "ORG_NO": "1141",
+      "ORG_NAME": "หน่วยโคกปรง",
+      "BASE_ORG_NO": "82"
+    },
+    {
+      "ORG_NO": "118",
+      "ORG_NAME": "หน่วยท่าล้อ",
+      "BASE_ORG_NO": "16"
+    },
+    {
+      "ORG_NO": "119",
+      "ORG_NAME": "หน่วยจุน",
+      "BASE_ORG_NO": "120"
+    },
+    {
+      "ORG_NO": "887",
+      "ORG_NAME": "หน่วยบ้านปิน",
+      "BASE_ORG_NO": "484"
+    },
+    {
+      "ORG_NO": "1399",
+      "ORG_NAME": "หน่วยน้ำโท้ง",
+      "BASE_ORG_NO": "580"
+    },
+    {
+      "ORG_NO": "376",
+      "ORG_NAME": "หน่วยดอกคำใต้",
+      "BASE_ORG_NO": "484"
+    },
+    {
+      "ORG_NO": "632",
+      "ORG_NAME": "หน่วยนากลาง",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "1656",
+      "ORG_NAME": "หน่วยซำรัง",
+      "BASE_ORG_NO": "66"
+    },
+    {
+      "ORG_NO": "121",
+      "ORG_NAME": "หน่วยน้ำร้อน",
+      "BASE_ORG_NO": "7"
+    },
+    {
+      "ORG_NO": "1145",
+      "ORG_NAME": "หน่วยมวกเหล็ก",
+      "BASE_ORG_NO": "1143"
+    },
+    {
+      "ORG_NO": "122",
+      "ORG_NAME": "หน่วยภูเรือ",
+      "BASE_ORG_NO": "135"
+    },
+    {
+      "ORG_NO": "123",
+      "ORG_NAME": "หน่วยท่าแดง",
+      "BASE_ORG_NO": "82"
+    },
+    {
+      "ORG_NO": "891",
+      "ORG_NAME": "หน่วยส่องดาว",
+      "BASE_ORG_NO": "654"
+    },
+    {
+      "ORG_NO": "1147",
+      "ORG_NAME": "หน่วยหนองแซง",
+      "BASE_ORG_NO": "1143"
+    },
+    {
+      "ORG_NO": "1403",
+      "ORG_NAME": "หน่วยเมืองแกน",
+      "BASE_ORG_NO": "1061"
+    },
+    {
+      "ORG_NO": "380",
+      "ORG_NAME": "หน่วยเจริญเมือง",
+      "BASE_ORG_NO": "139"
+    },
+    {
+      "ORG_NO": "1660",
+      "ORG_NAME": "หน่วยบึงบัว",
+      "BASE_ORG_NO": "927"
+    },
+    {
+      "ORG_NO": "125",
+      "ORG_NAME": "หน่วยวังพิกุล",
+      "BASE_ORG_NO": "9"
+    },
+    {
+      "ORG_NO": "1149",
+      "ORG_NAME": "หน่วยบ้านหมอ",
+      "BASE_ORG_NO": "1143"
+    },
+    {
+      "ORG_NO": "126",
+      "ORG_NAME": "หน่วยเนินมะปราง",
+      "BASE_ORG_NO": "66"
+    },
+    {
+      "ORG_NO": "1150",
+      "ORG_NAME": "หน่วยดงสุวรรณ",
+      "BASE_ORG_NO": "139"
+    },
+    {
+      "ORG_NO": "127",
+      "ORG_NAME": "หน่วยบุ่งน้ำเต้า",
+      "BASE_ORG_NO": "69"
+    },
+    {
+      "ORG_NO": "895",
+      "ORG_NAME": "หน่วยนาวัง",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "1151",
+      "ORG_NAME": "หน่วยนครเจดีย์",
+      "BASE_ORG_NO": "223"
+    },
+    {
+      "ORG_NO": "1407",
+      "ORG_NAME": "หน่วยเมืองงาย",
+      "BASE_ORG_NO": "1061"
+    },
+    {
+      "ORG_NO": "128",
+      "ORG_NAME": "หน่วยน้ำริด",
+      "BASE_ORG_NO": "15"
+    },
+    {
+      "ORG_NO": "1664",
+      "ORG_NAME": "หน่วยนาหอ",
+      "BASE_ORG_NO": "135"
+    },
+    {
+      "ORG_NO": "1153",
+      "ORG_NAME": "หน่วยป่าไผ่",
+      "BASE_ORG_NO": "167"
+    },
+    {
+      "ORG_NO": "130",
+      "ORG_NAME": "หน่วยเสริมงาม",
+      "BASE_ORG_NO": "16"
+    },
+    {
+      "ORG_NO": "131",
+      "ORG_NAME": "หน่วยดอนไฟ",
+      "BASE_ORG_NO": "31"
+    },
+    {
+      "ORG_NO": "899",
+      "ORG_NAME": "หน่วยปลายราง",
+      "BASE_ORG_NO": "2"
+    },
+    {
+      "ORG_NO": "1155",
+      "ORG_NAME": "หน่วยเวียงพางคำ",
+      "BASE_ORG_NO": "492"
+    },
+    {
+      "ORG_NO": "1411",
+      "ORG_NAME": "หน่วยสันทราย",
+      "BASE_ORG_NO": "1067"
+    },
+    {
+      "ORG_NO": "132",
+      "ORG_NAME": "หน่วยแม่ปุง",
+      "BASE_ORG_NO": "31"
+    },
+    {
+      "ORG_NO": "388",
+      "ORG_NAME": "หน่วยคลองน้ำไหล",
+      "BASE_ORG_NO": "235"
+    },
+    {
+      "ORG_NO": "644",
+      "ORG_NAME": "หน่วยไชยวาน",
+      "BASE_ORG_NO": "636"
+    },
+    {
+      "ORG_NO": "1668",
+      "ORG_NAME": "หน่วยร่องจิก",
+      "BASE_ORG_NO": "135"
+    },
+    {
+      "ORG_NO": "133",
+      "ORG_NAME": "หน่วยน้ำอ่าง",
+      "BASE_ORG_NO": "56"
+    },
+    {
+      "ORG_NO": "1157",
+      "ORG_NAME": "หน่วยพร้าว",
+      "BASE_ORG_NO": "1061"
+    },
+    {
+      "ORG_NO": "134",
+      "ORG_NAME": "หน่วยไทรงาม",
+      "BASE_ORG_NO": "140"
+    },
+    {
+      "ORG_NO": "646",
+      "ORG_NAME": "หน่วยพิบูลย์รักษ์",
+      "BASE_ORG_NO": "636"
+    },
+    {
+      "ORG_NO": "1414",
+      "ORG_NAME": "หน่วยต้นดู่",
+      "BASE_ORG_NO": "1067"
+    },
+    {
+      "ORG_NO": "903",
+      "ORG_NAME": "หน่วยนครสวรรค์",
+      "BASE_ORG_NO": "1097"
+    },
+    {
+      "ORG_NO": "1159",
+      "ORG_NAME": "หน่วยสันปูเลย",
+      "BASE_ORG_NO": "1067"
+    },
+    {
+      "ORG_NO": "136",
+      "ORG_NAME": "หน่วยนาทุ่ง",
+      "BASE_ORG_NO": "52"
+    },
+    {
+      "ORG_NO": "392",
+      "ORG_NAME": "หน่วยหนองปลิง",
+      "BASE_ORG_NO": "384"
+    },
+    {
+      "ORG_NO": "1672",
+      "ORG_NAME": "หน่วยโป่ง",
+      "BASE_ORG_NO": "135"
+    },
+    {
+      "ORG_NO": "137",
+      "ORG_NAME": "หน่วยสี่แยกร่องฟอง",
+      "BASE_ORG_NO": "114"
+    },
+    {
+      "ORG_NO": "1161",
+      "ORG_NAME": "หน่วยย่อยสันกำแพง",
+      "BASE_ORG_NO": "1067"
+    },
+    {
+      "ORG_NO": "138",
+      "ORG_NAME": "หน่วยโคกงาม",
+      "BASE_ORG_NO": "135"
+    },
+    {
+      "ORG_NO": "650",
+      "ORG_NAME": "หน่วยพันดอน",
+      "BASE_ORG_NO": "640"
+    },
+    {
+      "ORG_NO": "1418",
+      "ORG_NAME": "หน่วยสันกลาง",
+      "BASE_ORG_NO": "1067"
+    },
+    {
+      "ORG_NO": "907",
+      "ORG_NAME": "หน่วยโกรกพระ",
+      "BASE_ORG_NO": "1097"
+    },
+    {
+      "ORG_NO": "1163",
+      "ORG_NAME": "หน่วยแสนตอ",
+      "BASE_ORG_NO": "16"
+    },
+    {
+      "ORG_NO": "1676",
+      "ORG_NAME": "หน่วยผาสามยอด",
+      "BASE_ORG_NO": "174"
+    },
+    {
+      "ORG_NO": "1165",
+      "ORG_NAME": "หน่วยบ้านต๋อม",
+      "BASE_ORG_NO": "484"
+    },
+    {
+      "ORG_NO": "142",
+      "ORG_NAME": "หน่วยพรานกระต่าย",
+      "BASE_ORG_NO": "140"
+    },
+    {
+      "ORG_NO": "1422",
+      "ORG_NAME": "หน่วยดอยสะเก็ด",
+      "BASE_ORG_NO": "1067"
+    },
+    {
+      "ORG_NO": "143",
+      "ORG_NAME": "หน่วยท่าลี่",
+      "BASE_ORG_NO": "135"
+    },
+    {
+      "ORG_NO": "911",
+      "ORG_NAME": "หน่วยเทพนคร",
+      "BASE_ORG_NO": "384"
+    },
+    {
+      "ORG_NO": "1167",
+      "ORG_NAME": "หน่วยน้ำล้อม",
+      "BASE_ORG_NO": "5"
+    },
+    {
+      "ORG_NO": "144",
+      "ORG_NAME": "หน่วยนาแห้ว",
+      "BASE_ORG_NO": "135"
+    },
+    {
+      "ORG_NO": "400",
+      "ORG_NAME": "หน่วยเก้าเลี้ยว",
+      "BASE_ORG_NO": "396"
+    },
+    {
+      "ORG_NO": "1680",
+      "ORG_NAME": "หน่วยนาดินดำ",
+      "BASE_ORG_NO": "174"
+    },
+    {
+      "ORG_NO": "145",
+      "ORG_NAME": "หน่วยเนินเพิ่ม",
+      "BASE_ORG_NO": "65"
+    },
+    {
+      "ORG_NO": "1169",
+      "ORG_NAME": "หน่วยสบบง",
+      "BASE_ORG_NO": "94"
+    },
+    {
+      "ORG_NO": "146",
+      "ORG_NAME": "หน่วยวังซอง",
+      "BASE_ORG_NO": "69"
+    },
+    {
+      "ORG_NO": "658",
+      "ORG_NAME": "หน่วยพังโคน",
+      "BASE_ORG_NO": "654"
+    },
+    {
+      "ORG_NO": "1426",
+      "ORG_NAME": "หน่วยปงยางคก",
+      "BASE_ORG_NO": "16"
+    },
+    {
+      "ORG_NO": "147",
+      "ORG_NAME": "หน่วยดงขุย",
+      "BASE_ORG_NO": "85"
+    },
+    {
+      "ORG_NO": "915",
+      "ORG_NAME": "หน่วยนครชุม",
+      "BASE_ORG_NO": "384"
+    },
+    {
+      "ORG_NO": "1171",
+      "ORG_NAME": "หน่วยบ้านดู่",
+      "BASE_ORG_NO": "560"
+    },
+    {
+      "ORG_NO": "148",
+      "ORG_NAME": "หน่วยวัดป่า",
+      "BASE_ORG_NO": "18"
+    },
+    {
+      "ORG_NO": "404",
+      "ORG_NAME": "หน่วยส้มเสี้ยว",
+      "BASE_ORG_NO": "396"
+    },
+    {
+      "ORG_NO": "1684",
+      "ORG_NAME": "หน่วยนาด้วง",
+      "BASE_ORG_NO": "174"
+    },
+    {
+      "ORG_NO": "149",
+      "ORG_NAME": "หน่วยเขาแก้ว",
+      "BASE_ORG_NO": "8"
+    },
+    {
+      "ORG_NO": "1173",
+      "ORG_NAME": "หน่วยร่องกาศ",
+      "BASE_ORG_NO": "114"
+    },
+    {
+      "ORG_NO": "662",
+      "ORG_NAME": "หน่วยวาริชภูมิ",
+      "BASE_ORG_NO": "654"
+    },
+    {
+      "ORG_NO": "1430",
+      "ORG_NAME": "หน่วยทุ่งจี้ศรีเจริญ",
+      "BASE_ORG_NO": "16"
+    },
+    {
+      "ORG_NO": "151",
+      "ORG_NAME": "หน่วยสูงเม่น",
+      "BASE_ORG_NO": "129"
+    },
+    {
+      "ORG_NO": "919",
+      "ORG_NAME": "หน่วยหันคา",
+      "BASE_ORG_NO": "324"
+    },
+    {
+      "ORG_NO": "1175",
+      "ORG_NAME": "หน่วยท่าขวัญ",
+      "BASE_ORG_NO": "124"
+    },
+    {
+      "ORG_NO": "408",
+      "ORG_NAME": "หน่วยบ้านกร่าง",
+      "BASE_ORG_NO": "66"
+    },
+    {
+      "ORG_NO": "1688",
+      "ORG_NAME": "หน่วยระวิง",
+      "BASE_ORG_NO": "7"
+    },
+    {
+      "ORG_NO": "153",
+      "ORG_NAME": "หน่วยซับบอน",
+      "BASE_ORG_NO": "82"
+    },
+    {
+      "ORG_NO": "1177",
+      "ORG_NAME": "หน่วยป่าแดง",
+      "BASE_ORG_NO": "124"
+    },
+    {
+      "ORG_NO": "1434",
+      "ORG_NAME": "หน่วยประตูม้า",
+      "BASE_ORG_NO": "31"
+    },
+    {
+      "ORG_NO": "923",
+      "ORG_NAME": "หน่วยสรรคบุรี",
+      "BASE_ORG_NO": "324"
+    },
+    {
+      "ORG_NO": "1179",
+      "ORG_NAME": "หน่วยบ้านผือ",
+      "BASE_ORG_NO": "1132"
+    },
+    {
+      "ORG_NO": "1435",
+      "ORG_NAME": "หน่วยสบจาง",
+      "BASE_ORG_NO": "31"
+    },
+    {
+      "ORG_NO": "412",
+      "ORG_NAME": "หน่วยภักดีชุมพล",
+      "BASE_ORG_NO": "761"
+    },
+    {
+      "ORG_NO": "1692",
+      "ORG_NAME": "หน่วยศิลา",
+      "BASE_ORG_NO": "18"
+    },
+    {
+      "ORG_NO": "1181",
+      "ORG_NAME": "หน่วยหนองแสง",
+      "BASE_ORG_NO": "1132"
+    },
+    {
+      "ORG_NO": "1438",
+      "ORG_NAME": "หน่วยห้วยกาน",
+      "BASE_ORG_NO": "223"
+    },
+    {
+      "ORG_NO": "159",
+      "ORG_NAME": "หน่วยบึงนาจาน",
+      "BASE_ORG_NO": "81"
+    },
+    {
+      "ORG_NO": "1183",
+      "ORG_NAME": "หน่วยหนองภัยศูนย์",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "416",
+      "ORG_NAME": "หน่วยบางมูลนาก",
+      "BASE_ORG_NO": "753"
+    },
+    {
+      "ORG_NO": "1696",
+      "ORG_NAME": "หน่วยนางั่ว",
+      "BASE_ORG_NO": "69"
+    },
+    {
+      "ORG_NO": "161",
+      "ORG_NAME": "หน่วยเมืองปาน",
+      "BASE_ORG_NO": "16"
+    },
+    {
+      "ORG_NO": "1185",
+      "ORG_NAME": "หน่วยสี่แยกหนองเม็ก",
+      "BASE_ORG_NO": "636"
+    },
+    {
+      "ORG_NO": "1442",
+      "ORG_NAME": "หน่วยบ้านด้าย",
+      "BASE_ORG_NO": "492"
+    },
+    {
+      "ORG_NO": "163",
+      "ORG_NAME": "หน่วยหนองตูม",
+      "BASE_ORG_NO": "55"
+    },
+    {
+      "ORG_NO": "931",
+      "ORG_NAME": "หน่วยไผ่ท่าโพ",
+      "BASE_ORG_NO": "927"
+    },
+    {
+      "ORG_NO": "1187",
+      "ORG_NAME": "หน่วยเจริญศิลป์",
+      "BASE_ORG_NO": "654"
+    },
+    {
+      "ORG_NO": "1700",
+      "ORG_NAME": "หน่วยบ้านกง",
+      "BASE_ORG_NO": "352"
+    },
+    {
+      "ORG_NO": "165",
+      "ORG_NAME": "หน่วยบ้านหลวง",
+      "BASE_ORG_NO": "120"
+    },
+    {
+      "ORG_NO": "677",
+      "ORG_NAME": "หน่วยสามแยกนาอ้อย",
+      "BASE_ORG_NO": "674"
+    },
+    {
+      "ORG_NO": "1446",
+      "ORG_NAME": "หน่วยป่างิ้ว",
+      "BASE_ORG_NO": "170"
+    },
+    {
+      "ORG_NO": "935",
+      "ORG_NAME": "หน่วยบึงนาราง",
+      "BASE_ORG_NO": "753"
+    },
+    {
+      "ORG_NO": "1191",
+      "ORG_NAME": "หน่วยแม่กุ",
+      "BASE_ORG_NO": "1189"
+    },
+    {
+      "ORG_NO": "168",
+      "ORG_NAME": "หน่วยไผ่ล้อม",
+      "BASE_ORG_NO": "24"
+    },
+    {
+      "ORG_NO": "424",
+      "ORG_NAME": "หน่วยอุบลรัตน์",
+      "BASE_ORG_NO": "420"
+    },
+    {
+      "ORG_NO": "1704",
+      "ORG_NAME": "หน่วยชุมชนบ้านบัวใหญ่",
+      "BASE_ORG_NO": "809"
+    },
+    {
+      "ORG_NO": "681",
+      "ORG_NAME": "หน่วยเชียงเครือ",
+      "BASE_ORG_NO": "674"
+    },
+    {
+      "ORG_NO": "1193",
+      "ORG_NAME": "หน่วยแม่กื้ดหลวง",
+      "BASE_ORG_NO": "1189"
+    },
+    {
+      "ORG_NO": "1450",
+      "ORG_NAME": "หน่วยป่าแงะ",
+      "BASE_ORG_NO": "139"
+    },
+    {
+      "ORG_NO": "427",
+      "ORG_NAME": "หน่วยแม่ใจ",
+      "BASE_ORG_NO": "484"
+    },
+    {
+      "ORG_NO": "939",
+      "ORG_NAME": "หน่วยวชิรบารมี",
+      "BASE_ORG_NO": "927"
+    },
+    {
+      "ORG_NO": "1195",
+      "ORG_NAME": "หน่วยโค้งไผ่",
+      "BASE_ORG_NO": "186"
+    },
+    {
+      "ORG_NO": "172",
+      "ORG_NAME": "หน่วยเวียงเชียงรุ้ง",
+      "BASE_ORG_NO": "290"
+    },
+    {
+      "ORG_NO": "1708",
+      "ORG_NAME": "หน่วยบัวเงิน",
+      "BASE_ORG_NO": "809"
+    },
+    {
+      "ORG_NO": "685",
+      "ORG_NAME": "หน่วยพรรณานิคม",
+      "BASE_ORG_NO": "674"
+    },
+    {
+      "ORG_NO": "1197",
+      "ORG_NAME": "หน่วยคลองแม่ลาย",
+      "BASE_ORG_NO": "235"
+    },
+    {
+      "ORG_NO": "1454",
+      "ORG_NAME": "หน่วยแม่ต๋ำใต้",
+      "BASE_ORG_NO": "84"
+    },
+    {
+      "ORG_NO": "431",
+      "ORG_NAME": "หน่วยแม่ลาว",
+      "BASE_ORG_NO": "290"
+    },
+    {
+      "ORG_NO": "943",
+      "ORG_NAME": "หน่วยบ้านฝาง",
+      "BASE_ORG_NO": "527"
+    },
+    {
+      "ORG_NO": "1199",
+      "ORG_NAME": "หน่วยแม่เปิน",
+      "BASE_ORG_NO": "442"
+    },
+    {
+      "ORG_NO": "176",
+      "ORG_NAME": "หน่วยโรงพยาบาลวังสะพุง",
+      "BASE_ORG_NO": "174"
+    },
+    {
+      "ORG_NO": "1712",
+      "ORG_NAME": "หน่วยโนนท่อน",
+      "BASE_ORG_NO": "420"
+    },
+    {
+      "ORG_NO": "177",
+      "ORG_NAME": "หน่วยเอราวัณ",
+      "BASE_ORG_NO": "174"
+    },
+    {
+      "ORG_NO": "1201",
+      "ORG_NAME": "หน่วยช่องแค",
+      "BASE_ORG_NO": "268"
+    },
+    {
+      "ORG_NO": "1458",
+      "ORG_NAME": "หน่วยเวียงชัยทอง",
+      "BASE_ORG_NO": "290"
+    },
+    {
+      "ORG_NO": "435",
+      "ORG_NAME": "หน่วยภูซาง",
+      "BASE_ORG_NO": "94"
+    },
+    {
+      "ORG_NO": "947",
+      "ORG_NAME": "หน่วยโคกโพธิ์ไชย",
+      "BASE_ORG_NO": "523"
+    },
+    {
+      "ORG_NO": "1203",
+      "ORG_NAME": "หน่วยห้วยคต",
+      "BASE_ORG_NO": "1005"
+    },
+    {
+      "ORG_NO": "1716",
+      "ORG_NAME": "หน่วยหนองสามขา",
+      "BASE_ORG_NO": "801"
+    },
+    {
+      "ORG_NO": "181",
+      "ORG_NAME": "หน่วยภูหลวง",
+      "BASE_ORG_NO": "174"
+    },
+    {
+      "ORG_NO": "1205",
+      "ORG_NAME": "หน่วยทับผึ้ง",
+      "BASE_ORG_NO": "8"
+    },
+    {
+      "ORG_NO": "1462",
+      "ORG_NAME": "หน่วยบ้านเสี้ยว",
+      "BASE_ORG_NO": "12"
+    },
+    {
+      "ORG_NO": "183",
+      "ORG_NAME": "หน่วยร้องกวาง",
+      "BASE_ORG_NO": "124"
+    },
+    {
+      "ORG_NO": "439",
+      "ORG_NAME": "หน่วยเวียงแก่น",
+      "BASE_ORG_NO": "84"
+    },
+    {
+      "ORG_NO": "951",
+      "ORG_NAME": "หน่วยทัพทัน",
+      "BASE_ORG_NO": "454"
+    },
+    {
+      "ORG_NO": "1207",
+      "ORG_NAME": "หน่วยกระชงค์",
+      "BASE_ORG_NO": "55"
+    },
+    {
+      "ORG_NO": "1719",
+      "ORG_NAME": "หน่วยป่าหวายนั่ง",
+      "BASE_ORG_NO": "527"
+    },
+    {
+      "ORG_NO": "184",
+      "ORG_NAME": "หน่วยนายาง",
+      "BASE_ORG_NO": "13"
+    },
+    {
+      "ORG_NO": "697",
+      "ORG_NAME": "หน่วยสามชุก",
+      "BASE_ORG_NO": "693"
+    },
+    {
+      "ORG_NO": "1209",
+      "ORG_NAME": "หน่วยเมืองเก่าสุโขทัย",
+      "BASE_ORG_NO": "55"
+    },
+    {
+      "ORG_NO": "1466",
+      "ORG_NAME": "หน่วยบ้านม่วงอำเภอน้ำปาด",
+      "BASE_ORG_NO": "12"
+    },
+    {
+      "ORG_NO": "955",
+      "ORG_NAME": "หน่วยสว่างอารมณ์",
+      "BASE_ORG_NO": "454"
+    },
+    {
+      "ORG_NO": "1211",
+      "ORG_NAME": "หน่วยท่างาม",
+      "BASE_ORG_NO": "66"
+    },
+    {
+      "ORG_NO": "1723",
+      "ORG_NAME": "หน่วยบ้านโต้น",
+      "BASE_ORG_NO": "523"
+    },
+    {
+      "ORG_NO": "188",
+      "ORG_NAME": "หน่วยภูกระดึง",
+      "BASE_ORG_NO": "179"
+    },
+    {
+      "ORG_NO": "189",
+      "ORG_NAME": "หน่วยดงเจริญ",
+      "BASE_ORG_NO": "105"
+    },
+    {
+      "ORG_NO": "701",
+      "ORG_NAME": "หน่วยหนองหญ้าไซ",
+      "BASE_ORG_NO": "689"
+    },
+    {
+      "ORG_NO": "1213",
+      "ORG_NAME": "หน่วยมะขามสูง",
+      "BASE_ORG_NO": "66"
+    },
+    {
+      "ORG_NO": "446",
+      "ORG_NAME": "หน่วยหนองเบน",
+      "BASE_ORG_NO": "1097"
+    },
+    {
+      "ORG_NO": "1470",
+      "ORG_NAME": "หน่วยบ้านม่วงเจ็ดต้น",
+      "BASE_ORG_NO": "12"
+    },
+    {
+      "ORG_NO": "191",
+      "ORG_NAME": "หน่วยแจ้ห่ม",
+      "BASE_ORG_NO": "16"
+    },
+    {
+      "ORG_NO": "959",
+      "ORG_NAME": "หน่วยศาลเจ้าไก่ต่อ",
+      "BASE_ORG_NO": "442"
+    },
+    {
+      "ORG_NO": "1215",
+      "ORG_NAME": "หน่วยบางลาย",
+      "BASE_ORG_NO": "753"
+    },
+    {
+      "ORG_NO": "1727",
+      "ORG_NAME": "หน่วยบ้านลาน",
+      "BASE_ORG_NO": "557"
+    },
+    {
+      "ORG_NO": "193",
+      "ORG_NAME": "หน่วยช่อแฮ",
+      "BASE_ORG_NO": "114"
+    },
+    {
+      "ORG_NO": "1217",
+      "ORG_NAME": "หน่วยหนองโสน",
+      "BASE_ORG_NO": "927"
+    },
+    {
+      "ORG_NO": "450",
+      "ORG_NAME": "หน่วยชุมตาบง",
+      "BASE_ORG_NO": "442"
+    },
+    {
+      "ORG_NO": "1474",
+      "ORG_NAME": "หน่วยแม่เฉย",
+      "BASE_ORG_NO": "15"
+    },
+    {
+      "ORG_NO": "195",
+      "ORG_NAME": "หน่วยแม่หล่าย",
+      "BASE_ORG_NO": "124"
+    },
+    {
+      "ORG_NO": "1219",
+      "ORG_NAME": "หน่วยวัดตายม",
+      "BASE_ORG_NO": "328"
+    },
+    {
+      "ORG_NO": "1731",
+      "ORG_NAME": "หน่วยหนองน้ำใส",
+      "BASE_ORG_NO": "557"
+    },
+    {
+      "ORG_NO": "1732",
+      "ORG_NAME": "หน่วยท่านางแนว",
+      "BASE_ORG_NO": "545"
+    },
+    {
+      "ORG_NO": "197",
+      "ORG_NAME": "หน่วยหนองหญ้าปล้อง",
+      "BASE_ORG_NO": "174"
+    },
+    {
+      "ORG_NO": "709",
+      "ORG_NAME": "หน่วยท่าเสด็จ",
+      "BASE_ORG_NO": "705"
+    },
+    {
+      "ORG_NO": "1222",
+      "ORG_NAME": "หน่วยสหัสขันธ์",
+      "BASE_ORG_NO": "1221"
+    },
+    {
+      "ORG_NO": "1478",
+      "ORG_NAME": "หน่วยยางจุ้ม",
+      "BASE_ORG_NO": "15"
+    },
+    {
+      "ORG_NO": "199",
+      "ORG_NAME": "หน่วยดอนทอง",
+      "BASE_ORG_NO": "66"
+    },
+    {
+      "ORG_NO": "1224",
+      "ORG_NAME": "หน่วยยางตลาด",
+      "BASE_ORG_NO": "1221"
+    },
+    {
+      "ORG_NO": "1736",
+      "ORG_NAME": "หน่วยหนองโพนงาม",
+      "BASE_ORG_NO": "247"
+    },
+    {
+      "ORG_NO": "201",
+      "ORG_NAME": "หน่วยปากฝาง",
+      "BASE_ORG_NO": "15"
+    },
+    {
+      "ORG_NO": "713",
+      "ORG_NAME": "หน่วยดอนเจดีย์",
+      "BASE_ORG_NO": "705"
+    },
+    {
+      "ORG_NO": "458",
+      "ORG_NAME": "หน่วยโคกหม้อ",
+      "BASE_ORG_NO": "454"
+    },
+    {
+      "ORG_NO": "1226",
+      "ORG_NAME": "หน่วยนาจารย์",
+      "BASE_ORG_NO": "1221"
+    },
+    {
+      "ORG_NO": "1482",
+      "ORG_NAME": "หน่วยเชียงเพ็ง",
+      "BASE_ORG_NO": "1132"
+    },
+    {
+      "ORG_NO": "203",
+      "ORG_NAME": "หน่วยด่านแม่คำมัน",
+      "BASE_ORG_NO": "52"
+    },
+    {
+      "ORG_NO": "1740",
+      "ORG_NAME": "หน่วยหน้าศูนย์ราชการ",
+      "BASE_ORG_NO": "484"
+    },
+    {
+      "ORG_NO": "205",
+      "ORG_NAME": "หน่วยน้ำพี้",
+      "BASE_ORG_NO": "12"
+    },
+    {
+      "ORG_NO": "1229",
+      "ORG_NAME": "หน่วยเสลภูมิ",
+      "BASE_ORG_NO": "1227"
+    },
+    {
+      "ORG_NO": "1741",
+      "ORG_NAME": "หน่วยไม้ยา",
+      "BASE_ORG_NO": "84"
+    },
+    {
+      "ORG_NO": "462",
+      "ORG_NAME": "หน่วยหนองฉาง",
+      "BASE_ORG_NO": "454"
+    },
+    {
+      "ORG_NO": "1486",
+      "ORG_NAME": "หน่วยประจักษ์ศิลปาคม",
+      "BASE_ORG_NO": "640"
+    },
+    {
+      "ORG_NO": "207",
+      "ORG_NAME": "หน่วยคลองพิไกร",
+      "BASE_ORG_NO": "140"
+    },
+    {
+      "ORG_NO": "1231",
+      "ORG_NAME": "หน่วยจังหาร",
+      "BASE_ORG_NO": "1227"
+    },
+    {
+      "ORG_NO": "209",
+      "ORG_NAME": "หน่วยหน้าสนามบินน่าน",
+      "BASE_ORG_NO": "5"
+    },
+    {
+      "ORG_NO": "721",
+      "ORG_NAME": "หน่วยวิเศษชัยชาญ",
+      "BASE_ORG_NO": "717"
+    },
+    {
+      "ORG_NO": "1745",
+      "ORG_NAME": "หน่วยบุญเรือง",
+      "BASE_ORG_NO": "84"
+    },
+    {
+      "ORG_NO": "466",
+      "ORG_NAME": "หน่วยหนองตางู",
+      "BASE_ORG_NO": "396"
+    },
+    {
+      "ORG_NO": "1490",
+      "ORG_NAME": "หน่วยห้วยเกิ้ง",
+      "BASE_ORG_NO": "640"
+    },
+    {
+      "ORG_NO": "211",
+      "ORG_NAME": "หน่วยดอนไชย",
+      "BASE_ORG_NO": "49"
+    },
+    {
+      "ORG_NO": "1235",
+      "ORG_NAME": "หน่วยทรายมูล",
+      "BASE_ORG_NO": "1233"
+    },
+    {
+      "ORG_NO": "468",
+      "ORG_NAME": "หน่วยชุมแสง",
+      "BASE_ORG_NO": "396"
+    },
+    {
+      "ORG_NO": "1748",
+      "ORG_NAME": "หน่วยแม่ฟ้าหลวง",
+      "BASE_ORG_NO": "560"
+    },
+    {
+      "ORG_NO": "213",
+      "ORG_NAME": "หน่วยม่วงตึ๊ด",
+      "BASE_ORG_NO": "5"
+    },
+    {
+      "ORG_NO": "725",
+      "ORG_NAME": "หน่วยแสวงหา",
+      "BASE_ORG_NO": "717"
+    },
+    {
+      "ORG_NO": "1237",
+      "ORG_NAME": "หน่วยคำเขื่อนแก้ว",
+      "BASE_ORG_NO": "1233"
+    },
+    {
+      "ORG_NO": "1749",
+      "ORG_NAME": "หน่วยแม่กรณ์",
+      "BASE_ORG_NO": "560"
+    },
+    {
+      "ORG_NO": "982",
+      "ORG_NAME": "หน่วยห้วยรากไม้",
+      "BASE_ORG_NO": "31"
+    },
+    {
+      "ORG_NO": "1494",
+      "ORG_NAME": "หน่วยโนนปอแดง",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "215",
+      "ORG_NAME": "หน่วยขาณุวรลักษบุรี",
+      "BASE_ORG_NO": "186"
+    },
+    {
+      "ORG_NO": "1239",
+      "ORG_NAME": "หน่วยป่าติ้ว",
+      "BASE_ORG_NO": "1233"
+    },
+    {
+      "ORG_NO": "472",
+      "ORG_NAME": "หน่วยดอยหลวง",
+      "BASE_ORG_NO": "290"
+    },
+    {
+      "ORG_NO": "1752",
+      "ORG_NAME": "หน่วยแม่ข่า",
+      "BASE_ORG_NO": "1122"
+    },
+    {
+      "ORG_NO": "217",
+      "ORG_NAME": "หน่วยเข็กน้อย",
+      "BASE_ORG_NO": "19"
+    },
+    {
+      "ORG_NO": "985",
+      "ORG_NAME": "หน่วยวังม่วง",
+      "BASE_ORG_NO": "49"
+    },
+    {
+      "ORG_NO": "1498",
+      "ORG_NAME": "หน่วยโนนสมบูรณ์",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "219",
+      "ORG_NAME": "หน่วยสี่แยกวัดธรรมาธิปไตย",
+      "BASE_ORG_NO": "15"
+    },
+    {
+      "ORG_NO": "1755",
+      "ORG_NAME": "หน่วยแม่นาวาง",
+      "BASE_ORG_NO": "1122"
+    },
+    {
+      "ORG_NO": "476",
+      "ORG_NAME": "หน่วยดงเจน",
+      "BASE_ORG_NO": "484"
+    },
+    {
+      "ORG_NO": "1756",
+      "ORG_NAME": "หน่วยทุ่งฮั้ว",
+      "BASE_ORG_NO": "170"
+    },
+    {
+      "ORG_NO": "221",
+      "ORG_NAME": "หน่วยทุ่งน้าว",
+      "BASE_ORG_NO": "124"
+    },
+    {
+      "ORG_NO": "733",
+      "ORG_NAME": "หน่วยค่ายบางระจัน",
+      "BASE_ORG_NO": "729"
+    },
+    {
+      "ORG_NO": "989",
+      "ORG_NAME": "หน่วยทุ่งรวงทอง",
+      "BASE_ORG_NO": "94"
+    },
+    {
+      "ORG_NO": "1245",
+      "ORG_NAME": "หน่วยแก้งสนามนาง",
+      "BASE_ORG_NO": "1243"
+    },
+    {
+      "ORG_NO": "1502",
+      "ORG_NAME": "หน่วยห้วยเดื่อ",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "1247",
+      "ORG_NAME": "หน่วยสีดา",
+      "BASE_ORG_NO": "1243"
+    },
+    {
+      "ORG_NO": "480",
+      "ORG_NAME": "หน่วยบ้านปล้อง",
+      "BASE_ORG_NO": "84"
+    },
+    {
+      "ORG_NO": "1760",
+      "ORG_NAME": "หน่วยนิคมน้ำอูน",
+      "BASE_ORG_NO": "654"
+    },
+    {
+      "ORG_NO": "225",
+      "ORG_NAME": "หน่วยบ้านโฮ่ง",
+      "BASE_ORG_NO": "223"
+    },
+    {
+      "ORG_NO": "737",
+      "ORG_NAME": "หน่วยสิงห์บุรี",
+      "BASE_ORG_NO": "729"
+    },
+    {
+      "ORG_NO": "993",
+      "ORG_NAME": "หน่วยปางมะค่า",
+      "BASE_ORG_NO": "186"
+    },
+    {
+      "ORG_NO": "1249",
+      "ORG_NAME": "หน่วยบัวลาย",
+      "BASE_ORG_NO": "1243"
+    },
+    {
+      "ORG_NO": "1506",
+      "ORG_NAME": "หน่วยกุดจิก",
+      "BASE_ORG_NO": "654"
+    },
+    {
+      "ORG_NO": "1762",
+      "ORG_NAME": "หน่วยโพนยางคำ",
+      "BASE_ORG_NO": "674"
+    },
+    {
+      "ORG_NO": "227",
+      "ORG_NAME": "หน่วยบ้านใหม่",
+      "BASE_ORG_NO": "84"
+    },
+    {
+      "ORG_NO": "229",
+      "ORG_NAME": "หน่วยเชียงบาน",
+      "BASE_ORG_NO": "94"
+    },
+    {
+      "ORG_NO": "741",
+      "ORG_NAME": "หน่วยตาก",
+      "BASE_ORG_NO": "749"
+    },
+    {
+      "ORG_NO": "997",
+      "ORG_NAME": "หน่วยมอสมบูรณ์",
+      "BASE_ORG_NO": "235"
+    },
+    {
+      "ORG_NO": "1253",
+      "ORG_NAME": "หน่วยคูเมือง",
+      "BASE_ORG_NO": "1257"
+    },
+    {
+      "ORG_NO": "1765",
+      "ORG_NAME": "หน่วยภูพาน",
+      "BASE_ORG_NO": "674"
+    },
+    {
+      "ORG_NO": "1510",
+      "ORG_NAME": "หน่วยปลาปาก",
+      "BASE_ORG_NO": "1085"
+    },
+    {
+      "ORG_NO": "231",
+      "ORG_NAME": "หน่วยทรายทองวัฒนา",
+      "BASE_ORG_NO": "157"
+    },
+    {
+      "ORG_NO": "1255",
+      "ORG_NAME": "หน่วยนาโพธิ์",
+      "BASE_ORG_NO": "1257"
+    },
+    {
+      "ORG_NO": "1768",
+      "ORG_NAME": "หน่วยหนองบ่อ",
+      "BASE_ORG_NO": "1085"
+    },
+    {
+      "ORG_NO": "233",
+      "ORG_NAME": "หน่วยท่ามะเขือ",
+      "BASE_ORG_NO": "157"
+    },
+    {
+      "ORG_NO": "745",
+      "ORG_NAME": "หน่วยบ้านตาก",
+      "BASE_ORG_NO": "749"
+    },
+    {
+      "ORG_NO": "1001",
+      "ORG_NAME": "หน่วยสามเงา",
+      "BASE_ORG_NO": "749"
+    },
+    {
+      "ORG_NO": "1514",
+      "ORG_NAME": "หน่วยโพนสนุก",
+      "BASE_ORG_NO": "1085"
+    },
+    {
+      "ORG_NO": "1772",
+      "ORG_NAME": "หน่วยนามะเฟือง",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "237",
+      "ORG_NAME": "หน่วยโค้งวิไล",
+      "BASE_ORG_NO": "186"
+    },
+    {
+      "ORG_NO": "1261",
+      "ORG_NAME": "หน่วยบรบือ",
+      "BASE_ORG_NO": "1259"
+    },
+    {
+      "ORG_NO": "1773",
+      "ORG_NAME": "หน่วยบ้านดินทรายอ่อน",
+      "BASE_ORG_NO": "624"
+    },
+    {
+      "ORG_NO": "1518",
+      "ORG_NAME": "หน่วยบ้านแก่งบรรพตพิสัย",
+      "BASE_ORG_NO": "396"
+    },
+    {
+      "ORG_NO": "239",
+      "ORG_NAME": "หน่วยปางศิลาทอง",
+      "BASE_ORG_NO": "235"
+    },
+    {
+      "ORG_NO": "1263",
+      "ORG_NAME": "หน่วยเชียงยืน",
+      "BASE_ORG_NO": "1259"
+    },
+    {
+      "ORG_NO": "496",
+      "ORG_NAME": "หน่วยจันจว้า",
+      "BASE_ORG_NO": "492"
+    },
+    {
+      "ORG_NO": "1776",
+      "ORG_NAME": "หน่วยพังงู",
+      "BASE_ORG_NO": "636"
+    },
+    {
+      "ORG_NO": "241",
+      "ORG_NAME": "หน่วยวังทอง",
+      "BASE_ORG_NO": "66"
+    },
+    {
+      "ORG_NO": "1009",
+      "ORG_NAME": "หน่วยทุ่งนา",
+      "BASE_ORG_NO": "1005"
+    },
+    {
+      "ORG_NO": "1265",
+      "ORG_NAME": "หน่วยโกสุมพิสัย",
+      "BASE_ORG_NO": "1259"
+    },
+    {
+      "ORG_NO": "1522",
+      "ORG_NAME": "หน่วยเกยไชย",
+      "BASE_ORG_NO": "396"
+    },
+    {
+      "ORG_NO": "1778",
+      "ORG_NAME": "หน่วยกลางใหญ่",
+      "BASE_ORG_NO": "1132"
+    },
+    {
+      "ORG_NO": "243",
+      "ORG_NAME": "หน่วยเพชรละคร",
+      "BASE_ORG_NO": "82"
+    },
+    {
+      "ORG_NO": "1267",
+      "ORG_NAME": "หน่วยสมศักดิ์พัฒนา",
+      "BASE_ORG_NO": "179"
+    },
+    {
+      "ORG_NO": "1523",
+      "ORG_NAME": "หน่วยพระนอน",
+      "BASE_ORG_NO": "1097"
+    },
+    {
+      "ORG_NO": "500",
+      "ORG_NAME": "หน่วยเชียงแสน",
+      "BASE_ORG_NO": "492"
+    },
+    {
+      "ORG_NO": "1780",
+      "ORG_NAME": "หน่วยบ้านวังโป่งเขตอุตรดิตถ์",
+      "BASE_ORG_NO": "12"
+    },
+    {
+      "ORG_NO": "245",
+      "ORG_NAME": "หน่วยหนองมะค่า",
+      "BASE_ORG_NO": "81"
+    },
+    {
+      "ORG_NO": "757",
+      "ORG_NAME": "หน่วยตะพานหิน",
+      "BASE_ORG_NO": "753"
+    },
+    {
+      "ORG_NO": "1013",
+      "ORG_NAME": "หน่วยเมืองการุ้ง",
+      "BASE_ORG_NO": "1005"
+    },
+    {
+      "ORG_NO": "1269",
+      "ORG_NAME": "หน่วยหนองหิน",
+      "BASE_ORG_NO": "179"
+    },
+    {
+      "ORG_NO": "1782",
+      "ORG_NAME": "หน่วยนานกกก",
+      "BASE_ORG_NO": "24"
+    },
+    {
+      "ORG_NO": "1015",
+      "ORG_NAME": "หน่วยลานสัก",
+      "BASE_ORG_NO": "454"
+    },
+    {
+      "ORG_NO": "1271",
+      "ORG_NAME": "หน่วยเจดีย์แม่ครัว",
+      "BASE_ORG_NO": "1061"
+    },
+    {
+      "ORG_NO": "1527",
+      "ORG_NAME": "หน่วยเขาทอง",
+      "BASE_ORG_NO": "1097"
+    },
+    {
+      "ORG_NO": "504",
+      "ORG_NAME": "หน่วยแม่สาย",
+      "BASE_ORG_NO": "492"
+    },
+    {
+      "ORG_NO": "249",
+      "ORG_NAME": "หน่วยคอนสาร",
+      "BASE_ORG_NO": "247"
+    },
+    {
+      "ORG_NO": "1273",
+      "ORG_NAME": "หน่วยทุ่งเขาหลวง",
+      "BASE_ORG_NO": "1227"
+    },
+    {
+      "ORG_NO": "1785",
+      "ORG_NAME": "หน่วยหนองหลวง",
+      "BASE_ORG_NO": "268"
+    },
+    {
+      "ORG_NO": "251",
+      "ORG_NAME": "หน่วยสีชมพู",
+      "BASE_ORG_NO": "247"
+    },
+    {
+      "ORG_NO": "1531",
+      "ORG_NAME": "หน่วยลำพยนต์",
+      "BASE_ORG_NO": "268"
+    },
+    {
+      "ORG_NO": "508",
+      "ORG_NAME": "หน่วยดอยตุง",
+      "BASE_ORG_NO": "492"
+    },
+    {
+      "ORG_NO": "1788",
+      "ORG_NAME": "หน่วยวังม้า",
+      "BASE_ORG_NO": "442"
+    },
+    {
+      "ORG_NO": "253",
+      "ORG_NAME": "หน่วยศรีบุญเรือง",
+      "BASE_ORG_NO": "356"
+    },
+    {
+      "ORG_NO": "765",
+      "ORG_NAME": "หน่วยเกษตรสมบูรณ์",
+      "BASE_ORG_NO": "761"
+    },
+    {
+      "ORG_NO": "1277",
+      "ORG_NAME": "หน่วยนาคาว",
+      "BASE_ORG_NO": "1275"
+    },
+    {
+      "ORG_NO": "254",
+      "ORG_NAME": "หน่วยป่าซาง",
+      "BASE_ORG_NO": "580"
+    },
+    {
+      "ORG_NO": "1790",
+      "ORG_NAME": "หน่วยปางสุด",
+      "BASE_ORG_NO": "442"
+    },
+    {
+      "ORG_NO": "1023",
+      "ORG_NAME": "หน่วยทุ่งคอก",
+      "BASE_ORG_NO": "1019"
+    },
+    {
+      "ORG_NO": "1279",
+      "ORG_NAME": "หน่วยสระยายโสม",
+      "BASE_ORG_NO": "1019"
+    },
+    {
+      "ORG_NO": "1535",
+      "ORG_NAME": "หน่วยเขาดิน",
+      "BASE_ORG_NO": "693"
+    }
+]

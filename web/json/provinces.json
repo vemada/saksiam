@@ -1,0 +1,464 @@
+[
+    {
+      "ADDR_PROVINCE_NO": "1",
+      "ADDR_PROVINCE_CODE": "10",
+      "ADDR_PROVINCE_NAME": "กรุงเทพมหานคร   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "2",
+      "ADDR_PROVINCE_CODE": "11",
+      "ADDR_PROVINCE_NAME": "สมุทรปราการ   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "3",
+      "ADDR_PROVINCE_CODE": "12",
+      "ADDR_PROVINCE_NAME": "นนทบุรี   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "4",
+      "ADDR_PROVINCE_CODE": "13",
+      "ADDR_PROVINCE_NAME": "ปทุมธานี   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "5",
+      "ADDR_PROVINCE_CODE": "14",
+      "ADDR_PROVINCE_NAME": "พระนครศรีอยุธยา   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "6",
+      "ADDR_PROVINCE_CODE": "15",
+      "ADDR_PROVINCE_NAME": "อ่างทอง   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "7",
+      "ADDR_PROVINCE_CODE": "16",
+      "ADDR_PROVINCE_NAME": "ลพบุรี   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "8",
+      "ADDR_PROVINCE_CODE": "17",
+      "ADDR_PROVINCE_NAME": "สิงห์บุรี   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "9",
+      "ADDR_PROVINCE_CODE": "18",
+      "ADDR_PROVINCE_NAME": "ชัยนาท   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "10",
+      "ADDR_PROVINCE_CODE": "19",
+      "ADDR_PROVINCE_NAME": "สระบุรี",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "11",
+      "ADDR_PROVINCE_CODE": "20",
+      "ADDR_PROVINCE_NAME": "ชลบุรี   ",
+      "ADDR_REGION_NO": "5"
+    },
+    {
+      "ADDR_PROVINCE_NO": "12",
+      "ADDR_PROVINCE_CODE": "21",
+      "ADDR_PROVINCE_NAME": "ระยอง   ",
+      "ADDR_REGION_NO": "5"
+    },
+    {
+      "ADDR_PROVINCE_NO": "13",
+      "ADDR_PROVINCE_CODE": "22",
+      "ADDR_PROVINCE_NAME": "จันทบุรี   ",
+      "ADDR_REGION_NO": "5"
+    },
+    {
+      "ADDR_PROVINCE_NO": "14",
+      "ADDR_PROVINCE_CODE": "23",
+      "ADDR_PROVINCE_NAME": "ตราด   ",
+      "ADDR_REGION_NO": "5"
+    },
+    {
+      "ADDR_PROVINCE_NO": "15",
+      "ADDR_PROVINCE_CODE": "24",
+      "ADDR_PROVINCE_NAME": "ฉะเชิงเทรา   ",
+      "ADDR_REGION_NO": "5"
+    },
+    {
+      "ADDR_PROVINCE_NO": "16",
+      "ADDR_PROVINCE_CODE": "25",
+      "ADDR_PROVINCE_NAME": "ปราจีนบุรี   ",
+      "ADDR_REGION_NO": "5"
+    },
+    {
+      "ADDR_PROVINCE_NO": "17",
+      "ADDR_PROVINCE_CODE": "26",
+      "ADDR_PROVINCE_NAME": "นครนายก   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "18",
+      "ADDR_PROVINCE_CODE": "27",
+      "ADDR_PROVINCE_NAME": "สระแก้ว   ",
+      "ADDR_REGION_NO": "5"
+    },
+    {
+      "ADDR_PROVINCE_NO": "19",
+      "ADDR_PROVINCE_CODE": "30",
+      "ADDR_PROVINCE_NAME": "นครราชสีมา   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "20",
+      "ADDR_PROVINCE_CODE": "31",
+      "ADDR_PROVINCE_NAME": "บุรีรัมย์   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "21",
+      "ADDR_PROVINCE_CODE": "32",
+      "ADDR_PROVINCE_NAME": "สุรินทร์   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "22",
+      "ADDR_PROVINCE_CODE": "33",
+      "ADDR_PROVINCE_NAME": "ศรีสะเกษ   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "23",
+      "ADDR_PROVINCE_CODE": "34",
+      "ADDR_PROVINCE_NAME": "อุบลราชธานี   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "24",
+      "ADDR_PROVINCE_CODE": "35",
+      "ADDR_PROVINCE_NAME": "ยโสธร   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "25",
+      "ADDR_PROVINCE_CODE": "36",
+      "ADDR_PROVINCE_NAME": "ชัยภูมิ   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "26",
+      "ADDR_PROVINCE_CODE": "37",
+      "ADDR_PROVINCE_NAME": "อำนาจเจริญ   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "27",
+      "ADDR_PROVINCE_CODE": "39",
+      "ADDR_PROVINCE_NAME": "หนองบัวลำภู   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "28",
+      "ADDR_PROVINCE_CODE": "40",
+      "ADDR_PROVINCE_NAME": "ขอนแก่น   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "29",
+      "ADDR_PROVINCE_CODE": "41",
+      "ADDR_PROVINCE_NAME": "อุดรธานี   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "30",
+      "ADDR_PROVINCE_CODE": "42",
+      "ADDR_PROVINCE_NAME": "เลย   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "31",
+      "ADDR_PROVINCE_CODE": "43",
+      "ADDR_PROVINCE_NAME": "หนองคาย   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "32",
+      "ADDR_PROVINCE_CODE": "44",
+      "ADDR_PROVINCE_NAME": "มหาสารคาม   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "33",
+      "ADDR_PROVINCE_CODE": "45",
+      "ADDR_PROVINCE_NAME": "ร้อยเอ็ด   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "34",
+      "ADDR_PROVINCE_CODE": "46",
+      "ADDR_PROVINCE_NAME": "กาฬสินธุ์   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "35",
+      "ADDR_PROVINCE_CODE": "47",
+      "ADDR_PROVINCE_NAME": "สกลนคร   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "36",
+      "ADDR_PROVINCE_CODE": "48",
+      "ADDR_PROVINCE_NAME": "นครพนม   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "37",
+      "ADDR_PROVINCE_CODE": "49",
+      "ADDR_PROVINCE_NAME": "มุกดาหาร   ",
+      "ADDR_REGION_NO": "3"
+    },
+    {
+      "ADDR_PROVINCE_NO": "38",
+      "ADDR_PROVINCE_CODE": "50",
+      "ADDR_PROVINCE_NAME": "เชียงใหม่   ",
+      "ADDR_REGION_NO": "1"
+    },
+    {
+      "ADDR_PROVINCE_NO": "39",
+      "ADDR_PROVINCE_CODE": "51",
+      "ADDR_PROVINCE_NAME": "ลำพูน   ",
+      "ADDR_REGION_NO": "1"
+    },
+    {
+      "ADDR_PROVINCE_NO": "40",
+      "ADDR_PROVINCE_CODE": "52",
+      "ADDR_PROVINCE_NAME": "ลำปาง   ",
+      "ADDR_REGION_NO": "1"
+    },
+    {
+      "ADDR_PROVINCE_NO": "41",
+      "ADDR_PROVINCE_CODE": "53",
+      "ADDR_PROVINCE_NAME": "อุตรดิตถ์   ",
+      "ADDR_REGION_NO": "1"
+    },
+    {
+      "ADDR_PROVINCE_NO": "42",
+      "ADDR_PROVINCE_CODE": "54",
+      "ADDR_PROVINCE_NAME": "แพร่   ",
+      "ADDR_REGION_NO": "1"
+    },
+    {
+      "ADDR_PROVINCE_NO": "43",
+      "ADDR_PROVINCE_CODE": "55",
+      "ADDR_PROVINCE_NAME": "น่าน   ",
+      "ADDR_REGION_NO": "1"
+    },
+    {
+      "ADDR_PROVINCE_NO": "44",
+      "ADDR_PROVINCE_CODE": "56",
+      "ADDR_PROVINCE_NAME": "พะเยา   ",
+      "ADDR_REGION_NO": "1"
+    },
+    {
+      "ADDR_PROVINCE_NO": "45",
+      "ADDR_PROVINCE_CODE": "57",
+      "ADDR_PROVINCE_NAME": "เชียงราย   ",
+      "ADDR_REGION_NO": "1"
+    },
+    {
+      "ADDR_PROVINCE_NO": "46",
+      "ADDR_PROVINCE_CODE": "58",
+      "ADDR_PROVINCE_NAME": "แม่ฮ่องสอน   ",
+      "ADDR_REGION_NO": "1"
+    },
+    {
+      "ADDR_PROVINCE_NO": "47",
+      "ADDR_PROVINCE_CODE": "60",
+      "ADDR_PROVINCE_NAME": "นครสวรรค์   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "48",
+      "ADDR_PROVINCE_CODE": "61",
+      "ADDR_PROVINCE_NAME": "อุทัยธานี   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "49",
+      "ADDR_PROVINCE_CODE": "62",
+      "ADDR_PROVINCE_NAME": "กำแพงเพชร   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "50",
+      "ADDR_PROVINCE_CODE": "63",
+      "ADDR_PROVINCE_NAME": "ตาก   ",
+      "ADDR_REGION_NO": "4"
+    },
+    {
+      "ADDR_PROVINCE_NO": "51",
+      "ADDR_PROVINCE_CODE": "64",
+      "ADDR_PROVINCE_NAME": "สุโขทัย",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "52",
+      "ADDR_PROVINCE_CODE": "65",
+      "ADDR_PROVINCE_NAME": "พิษณุโลก",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "53",
+      "ADDR_PROVINCE_CODE": "66",
+      "ADDR_PROVINCE_NAME": "พิจิตร",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "54",
+      "ADDR_PROVINCE_CODE": "67",
+      "ADDR_PROVINCE_NAME": "เพชรบูรณ์   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "55",
+      "ADDR_PROVINCE_CODE": "70",
+      "ADDR_PROVINCE_NAME": "ราชบุรี   ",
+      "ADDR_REGION_NO": "4"
+    },
+    {
+      "ADDR_PROVINCE_NO": "56",
+      "ADDR_PROVINCE_CODE": "71",
+      "ADDR_PROVINCE_NAME": "กาญจนบุรี   ",
+      "ADDR_REGION_NO": "4"
+    },
+    {
+      "ADDR_PROVINCE_NO": "57",
+      "ADDR_PROVINCE_CODE": "72",
+      "ADDR_PROVINCE_NAME": "สุพรรณบุรี   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "58",
+      "ADDR_PROVINCE_CODE": "73",
+      "ADDR_PROVINCE_NAME": "นครปฐม   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "59",
+      "ADDR_PROVINCE_CODE": "74",
+      "ADDR_PROVINCE_NAME": "สมุทรสาคร   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "60",
+      "ADDR_PROVINCE_CODE": "75",
+      "ADDR_PROVINCE_NAME": "สมุทรสงคราม   ",
+      "ADDR_REGION_NO": "2"
+    },
+    {
+      "ADDR_PROVINCE_NO": "61",
+      "ADDR_PROVINCE_CODE": "76",
+      "ADDR_PROVINCE_NAME": "เพชรบุรี   ",
+      "ADDR_REGION_NO": "4"
+    },
+    {
+      "ADDR_PROVINCE_NO": "62",
+      "ADDR_PROVINCE_CODE": "77",
+      "ADDR_PROVINCE_NAME": "ประจวบคีรีขันธ์   ",
+      "ADDR_REGION_NO": "4"
+    },
+    {
+      "ADDR_PROVINCE_NO": "63",
+      "ADDR_PROVINCE_CODE": "80",
+      "ADDR_PROVINCE_NAME": "นครศรีธรรมราช   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "64",
+      "ADDR_PROVINCE_CODE": "81",
+      "ADDR_PROVINCE_NAME": "กระบี่   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "65",
+      "ADDR_PROVINCE_CODE": "82",
+      "ADDR_PROVINCE_NAME": "พังงา   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "66",
+      "ADDR_PROVINCE_CODE": "83",
+      "ADDR_PROVINCE_NAME": "ภูเก็ต   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "67",
+      "ADDR_PROVINCE_CODE": "84",
+      "ADDR_PROVINCE_NAME": "สุราษฎร์ธานี   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "68",
+      "ADDR_PROVINCE_CODE": "85",
+      "ADDR_PROVINCE_NAME": "ระนอง   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "69",
+      "ADDR_PROVINCE_CODE": "86",
+      "ADDR_PROVINCE_NAME": "ชุมพร   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "70",
+      "ADDR_PROVINCE_CODE": "90",
+      "ADDR_PROVINCE_NAME": "สงขลา   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "71",
+      "ADDR_PROVINCE_CODE": "91",
+      "ADDR_PROVINCE_NAME": "สตูล   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "72",
+      "ADDR_PROVINCE_CODE": "92",
+      "ADDR_PROVINCE_NAME": "ตรัง   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "73",
+      "ADDR_PROVINCE_CODE": "93",
+      "ADDR_PROVINCE_NAME": "พัทลุง   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "74",
+      "ADDR_PROVINCE_CODE": "94",
+      "ADDR_PROVINCE_NAME": "ปัตตานี   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "75",
+      "ADDR_PROVINCE_CODE": "95",
+      "ADDR_PROVINCE_NAME": "ยะลา   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "76",
+      "ADDR_PROVINCE_CODE": "96",
+      "ADDR_PROVINCE_NAME": "นราธิวาส   ",
+      "ADDR_REGION_NO": "6"
+    },
+    {
+      "ADDR_PROVINCE_NO": "77",
+      "ADDR_PROVINCE_CODE": "97",
+      "ADDR_PROVINCE_NAME": "บึงกาฬ",
+      "ADDR_REGION_NO": "3"
+    }
+]

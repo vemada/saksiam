@@ -1,0 +1,532 @@
+[
+    {
+      "ORG_NO": "2",
+      "ORG_NAME": "สาขาอุตรดิตถ์",
+      "BASE_ORG_NO": "965"
+    },
+    {
+      "ORG_NO": "5",
+      "ORG_NAME": "สาขาน่าน",
+      "BASE_ORG_NO": "960"
+    },
+    {
+      "ORG_NO": "7",
+      "ORG_NAME": "สาขาเพชรบูรณ์",
+      "BASE_ORG_NO": "974"
+    },
+    {
+      "ORG_NO": "8",
+      "ORG_NAME": "สาขาศรีสำโรง",
+      "BASE_ORG_NO": "967"
+    },
+    {
+      "ORG_NO": "9",
+      "ORG_NAME": "สาขาบึงสามพัน",
+      "BASE_ORG_NO": "972"
+    },
+    {
+      "ORG_NO": "10",
+      "ORG_NAME": "สาขาปัว",
+      "BASE_ORG_NO": "960"
+    },
+    {
+      "ORG_NO": "12",
+      "ORG_NAME": "สาขาน้ำปาด",
+      "BASE_ORG_NO": "965"
+    },
+    {
+      "ORG_NO": "13",
+      "ORG_NAME": "สาขาพิชัย",
+      "BASE_ORG_NO": "967"
+    },
+    {
+      "ORG_NO": "14",
+      "ORG_NAME": "สาขาหาดเสี้ยว",
+      "BASE_ORG_NO": "967"
+    },
+    {
+      "ORG_NO": "15",
+      "ORG_NAME": "สาขาวังสีสูบ",
+      "BASE_ORG_NO": "965"
+    },
+    {
+      "ORG_NO": "16",
+      "ORG_NAME": "สาขาห้างฉัตร",
+      "BASE_ORG_NO": "962"
+    },
+    {
+      "ORG_NO": "18",
+      "ORG_NAME": "สาขาหล่มสัก",
+      "BASE_ORG_NO": "974"
+    },
+    {
+      "ORG_NO": "19",
+      "ORG_NAME": "สาขาพ่อขุนผาเมือง",
+      "BASE_ORG_NO": "974"
+    },
+    {
+      "ORG_NO": "24",
+      "ORG_NAME": "สาขาทุ่งยั้ง",
+      "BASE_ORG_NO": "965"
+    },
+    {
+      "ORG_NO": "31",
+      "ORG_NAME": "สาขาแม่เมาะ",
+      "BASE_ORG_NO": "962"
+    },
+    {
+      "ORG_NO": "38",
+      "ORG_NAME": "สาขาท่าวังผา",
+      "BASE_ORG_NO": "960"
+    },
+    {
+      "ORG_NO": "45",
+      "ORG_NAME": "สาขาเถิน",
+      "BASE_ORG_NO": "962"
+    },
+    {
+      "ORG_NO": "49",
+      "ORG_NAME": "สาขาเวียงสา",
+      "BASE_ORG_NO": "960"
+    },
+    {
+      "ORG_NO": "52",
+      "ORG_NAME": "สาขาศรีนคร",
+      "BASE_ORG_NO": "967"
+    },
+    {
+      "ORG_NO": "55",
+      "ORG_NAME": "สาขาคลองโพธิ์",
+      "BASE_ORG_NO": "967"
+    },
+    {
+      "ORG_NO": "56",
+      "ORG_NAME": "สาขาบ้านแก่ง",
+      "BASE_ORG_NO": "967"
+    },
+    {
+      "ORG_NO": "65",
+      "ORG_NAME": "สาขานครไทย",
+      "BASE_ORG_NO": "971"
+    },
+    {
+      "ORG_NO": "66",
+      "ORG_NAME": "สาขาวัดโบสถ์",
+      "BASE_ORG_NO": "971"
+    },
+    {
+      "ORG_NO": "69",
+      "ORG_NAME": "สาขาท่าพล",
+      "BASE_ORG_NO": "974"
+    },
+    {
+      "ORG_NO": "81",
+      "ORG_NAME": "สาขาศรีเทพ",
+      "BASE_ORG_NO": "973"
+    },
+    {
+      "ORG_NO": "82",
+      "ORG_NAME": "สาขานาเฉลียง",
+      "BASE_ORG_NO": "972"
+    },
+    {
+      "ORG_NO": "84",
+      "ORG_NAME": "สาขาเทิง",
+      "BASE_ORG_NO": "961"
+    },
+    {
+      "ORG_NO": "85",
+      "ORG_NAME": "สาขาชนแดน",
+      "BASE_ORG_NO": "971"
+    },
+    {
+      "ORG_NO": "94",
+      "ORG_NAME": "สาขาเชียงคำ",
+      "BASE_ORG_NO": "960"
+    },
+    {
+      "ORG_NO": "105",
+      "ORG_NAME": "สาขาทับคล้อ",
+      "BASE_ORG_NO": "971"
+    },
+    {
+      "ORG_NO": "114",
+      "ORG_NAME": "สาขาแพร่",
+      "BASE_ORG_NO": "965"
+    },
+    {
+      "ORG_NO": "120",
+      "ORG_NAME": "สาขาเชียงม่วน",
+      "BASE_ORG_NO": "960"
+    },
+    {
+      "ORG_NO": "124",
+      "ORG_NAME": "สาขาอำเภอสอง",
+      "BASE_ORG_NO": "965"
+    },
+    {
+      "ORG_NO": "129",
+      "ORG_NAME": "สาขาลอง",
+      "BASE_ORG_NO": "965"
+    },
+    {
+      "ORG_NO": "135",
+      "ORG_NAME": "สาขาด่านซ้าย",
+      "BASE_ORG_NO": "974"
+    },
+    {
+      "ORG_NO": "139",
+      "ORG_NAME": "สาขาป่าแดด",
+      "BASE_ORG_NO": "961"
+    },
+    {
+      "ORG_NO": "140",
+      "ORG_NAME": "สาขาลานกระบือ",
+      "BASE_ORG_NO": "969"
+    },
+    {
+      "ORG_NO": "157",
+      "ORG_NAME": "สาขาบึงสามัคคี",
+      "BASE_ORG_NO": "969"
+    },
+    {
+      "ORG_NO": "167",
+      "ORG_NAME": "สาขาลี้",
+      "BASE_ORG_NO": "962"
+    },
+    {
+      "ORG_NO": "170",
+      "ORG_NAME": "สาขาวังเหนือ",
+      "BASE_ORG_NO": "961"
+    },
+    {
+      "ORG_NO": "174",
+      "ORG_NAME": "สาขาวังสะพุง",
+      "BASE_ORG_NO": "974"
+    },
+    {
+      "ORG_NO": "179",
+      "ORG_NAME": "สาขาผาขาว",
+      "BASE_ORG_NO": "974"
+    },
+    {
+      "ORG_NO": "186",
+      "ORG_NAME": "สาขาสลกบาตร",
+      "BASE_ORG_NO": "969"
+    },
+    {
+      "ORG_NO": "223",
+      "ORG_NAME": "สาขาแม่ตืน",
+      "BASE_ORG_NO": "962"
+    },
+    {
+      "ORG_NO": "235",
+      "ORG_NAME": "สาขาคลองลาน",
+      "BASE_ORG_NO": "969"
+    },
+    {
+      "ORG_NO": "247",
+      "ORG_NAME": "สาขาชุมแพ",
+      "BASE_ORG_NO": "1241"
+    },
+    {
+      "ORG_NO": "268",
+      "ORG_NAME": "สาขาเกษตรไทย",
+      "BASE_ORG_NO": "968"
+    },
+    {
+      "ORG_NO": "290",
+      "ORG_NAME": "สาขาเวียงชัย",
+      "BASE_ORG_NO": "961"
+    },
+    {
+      "ORG_NO": "306",
+      "ORG_NAME": "สาขาจอมทอง",
+      "BASE_ORG_NO": "1308"
+    },
+    {
+      "ORG_NO": "324",
+      "ORG_NAME": "สาขาชัยนาท",
+      "BASE_ORG_NO": "970"
+    },
+    {
+      "ORG_NO": "328",
+      "ORG_NAME": "สาขาบางระกำ",
+      "BASE_ORG_NO": "971"
+    },
+    {
+      "ORG_NO": "346",
+      "ORG_NAME": "สาขาหนองม่วง",
+      "BASE_ORG_NO": "973"
+    },
+    {
+      "ORG_NO": "352",
+      "ORG_NAME": "สาขาหนองเรือ",
+      "BASE_ORG_NO": "975"
+    },
+    {
+      "ORG_NO": "356",
+      "ORG_NAME": "สาขาภูเวียง",
+      "BASE_ORG_NO": "975"
+    },
+    {
+      "ORG_NO": "358",
+      "ORG_NAME": "สาขากระนวน",
+      "BASE_ORG_NO": "975"
+    },
+    {
+      "ORG_NO": "384",
+      "ORG_NAME": "สาขากำแพงเพชร",
+      "BASE_ORG_NO": "969"
+    },
+    {
+      "ORG_NO": "396",
+      "ORG_NAME": "สาขาบรรพตพิสัย",
+      "BASE_ORG_NO": "968"
+    },
+    {
+      "ORG_NO": "420",
+      "ORG_NAME": "สาขาน้ำพอง",
+      "BASE_ORG_NO": "975"
+    },
+    {
+      "ORG_NO": "442",
+      "ORG_NAME": "สาขาลาดยาว",
+      "BASE_ORG_NO": "968"
+    },
+    {
+      "ORG_NO": "454",
+      "ORG_NAME": "สาขาอุทัยธานี",
+      "BASE_ORG_NO": "968"
+    },
+    {
+      "ORG_NO": "484",
+      "ORG_NAME": "สาขาแม่ต๋ำ",
+      "BASE_ORG_NO": "960"
+    },
+    {
+      "ORG_NO": "492",
+      "ORG_NAME": "สาขาแม่จัน",
+      "BASE_ORG_NO": "961"
+    },
+    {
+      "ORG_NO": "523",
+      "ORG_NAME": "สาขามัญจาคีรี",
+      "BASE_ORG_NO": "1241"
+    },
+    {
+      "ORG_NO": "527",
+      "ORG_NAME": "สาขาบ้านม่วง",
+      "BASE_ORG_NO": "1241"
+    },
+    {
+      "ORG_NO": "545",
+      "ORG_NAME": "สาขาพล",
+      "BASE_ORG_NO": "1241"
+    },
+    {
+      "ORG_NO": "557",
+      "ORG_NAME": "สาขาบ้านไผ่",
+      "BASE_ORG_NO": "1241"
+    },
+    {
+      "ORG_NO": "560",
+      "ORG_NAME": "สาขาเชียงราย",
+      "BASE_ORG_NO": "961"
+    },
+    {
+      "ORG_NO": "580",
+      "ORG_NAME": "สาขาลำพูน",
+      "BASE_ORG_NO": "1308"
+    },
+    {
+      "ORG_NO": "624",
+      "ORG_NAME": "สาขาหนองบัวลำภู",
+      "BASE_ORG_NO": "964"
+    },
+    {
+      "ORG_NO": "636",
+      "ORG_NAME": "สาขาหนองหาน",
+      "BASE_ORG_NO": "964"
+    },
+    {
+      "ORG_NO": "640",
+      "ORG_NAME": "สาขากุมภวาปี",
+      "BASE_ORG_NO": "964"
+    },
+    {
+      "ORG_NO": "654",
+      "ORG_NAME": "สาขาสว่างแดนดิน",
+      "BASE_ORG_NO": "966"
+    },
+    {
+      "ORG_NO": "674",
+      "ORG_NAME": "สาขาสกลนคร",
+      "BASE_ORG_NO": "966"
+    },
+    {
+      "ORG_NO": "689",
+      "ORG_NAME": "สาขาด่านช้าง",
+      "BASE_ORG_NO": "970"
+    },
+    {
+      "ORG_NO": "693",
+      "ORG_NAME": "สาขาท่าช้าง",
+      "BASE_ORG_NO": "970"
+    },
+    {
+      "ORG_NO": "705",
+      "ORG_NAME": "สาขาอู่ทอง",
+      "BASE_ORG_NO": "970"
+    },
+    {
+      "ORG_NO": "717",
+      "ORG_NAME": "สาขาโพธิ์ทอง",
+      "BASE_ORG_NO": "970"
+    },
+    {
+      "ORG_NO": "729",
+      "ORG_NAME": "สาขาบางระจัน",
+      "BASE_ORG_NO": "970"
+    },
+    {
+      "ORG_NO": "749",
+      "ORG_NAME": "สาขาวังเจ้า",
+      "BASE_ORG_NO": "969"
+    },
+    {
+      "ORG_NO": "753",
+      "ORG_NAME": "สาขาโพทะเล",
+      "BASE_ORG_NO": "971"
+    },
+    {
+      "ORG_NO": "761",
+      "ORG_NAME": "สาขาหนองบัวแดง",
+      "BASE_ORG_NO": "972"
+    },
+    {
+      "ORG_NO": "777",
+      "ORG_NAME": "สาขาลำนารายณ์",
+      "BASE_ORG_NO": "973"
+    },
+    {
+      "ORG_NO": "801",
+      "ORG_NAME": "สาขาท่าคันโท",
+      "BASE_ORG_NO": "975"
+    },
+    {
+      "ORG_NO": "809",
+      "ORG_NAME": "สาขาหนองโน",
+      "BASE_ORG_NO": "975"
+    },
+    {
+      "ORG_NO": "927",
+      "ORG_NAME": "สาขาสามง่าม",
+      "BASE_ORG_NO": "971"
+    },
+    {
+      "ORG_NO": "1005",
+      "ORG_NAME": "สาขาบ้านไร่อุทัยธานี",
+      "BASE_ORG_NO": "968"
+    },
+    {
+      "ORG_NO": "1019",
+      "ORG_NAME": "สาขาสองพี่น้อง",
+      "BASE_ORG_NO": "970"
+    },
+    {
+      "ORG_NO": "1061",
+      "ORG_NAME": "สาขาแม่แตง",
+      "BASE_ORG_NO": "1308"
+    },
+    {
+      "ORG_NO": "1067",
+      "ORG_NAME": "สาขาสันกำแพง",
+      "BASE_ORG_NO": "1308"
+    },
+    {
+      "ORG_NO": "1085",
+      "ORG_NAME": "สาขานาแก",
+      "BASE_ORG_NO": "966"
+    },
+    {
+      "ORG_NO": "1097",
+      "ORG_NAME": "สาขาหนองปลิงนครสวรรค์",
+      "BASE_ORG_NO": "968"
+    },
+    {
+      "ORG_NO": "1122",
+      "ORG_NAME": "สาขาไชยปราการ",
+      "BASE_ORG_NO": "961"
+    },
+    {
+      "ORG_NO": "1132",
+      "ORG_NAME": "สาขาอุดรธานี",
+      "BASE_ORG_NO": "964"
+    },
+    {
+      "ORG_NO": "1143",
+      "ORG_NAME": "สาขาเสาไห้",
+      "BASE_ORG_NO": "973"
+    },
+    {
+      "ORG_NO": "1189",
+      "ORG_NAME": "สาขาแม่สอด",
+      "BASE_ORG_NO": "969"
+    },
+    {
+      "ORG_NO": "1221",
+      "ORG_NAME": "สาขากาฬสินธุ์",
+      "BASE_ORG_NO": "975"
+    },
+    {
+      "ORG_NO": "1227",
+      "ORG_NAME": "สาขาร้อยเอ็ด",
+      "BASE_ORG_NO": "975"
+    },
+    {
+      "ORG_NO": "1233",
+      "ORG_NAME": "สาขายโสธร",
+      "BASE_ORG_NO": "975"
+    },
+    {
+      "ORG_NO": "1243",
+      "ORG_NAME": "สาขาบัวใหญ่",
+      "BASE_ORG_NO": "1241"
+    },
+    {
+      "ORG_NO": "1251",
+      "ORG_NAME": "สาขาบุรีรัมย์",
+      "BASE_ORG_NO": "1241"
+    },
+    {
+      "ORG_NO": "1257",
+      "ORG_NAME": "สาขาพุทไธสง",
+      "BASE_ORG_NO": "1241"
+    },
+    {
+      "ORG_NO": "1259",
+      "ORG_NAME": "สาขามหาสารคาม",
+      "BASE_ORG_NO": "1241"
+    },
+    {
+      "ORG_NO": "1275",
+      "ORG_NAME": "สาขาแม่สะเรียง",
+      "BASE_ORG_NO": "1308"
+    },
+    {
+      "ORG_NO": "1285",
+      "ORG_NAME": "สาขาคำปิง",
+      "BASE_ORG_NO": "972"
+    },
+    {
+      "ORG_NO": "1299",
+      "ORG_NAME": "สาขาบ้านนา",
+      "BASE_ORG_NO": "973"
+    },
+    {
+      "ORG_NO": "1873",
+      "ORG_NAME": "สาขาเชียงคาน",
+      "BASE_ORG_NO": "974"
+    }
+]
