@@ -1,0 +1,70 @@
+    @import url(https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap);
+    body {
+        margin: 0;
+        font-size: .9rem;
+        font-weight: 400;
+        line-height: 1.6;
+        color: #212529;
+        text-align: left;
+        background-color: #f5f8fa;
+    }
+    
+    .navbar-brand,
+    .nav-link,
+    .my-form,
+    .login-form {
+        font-family: 'Prompt', sans-serif;
+    }
+    
+    .my-form {
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+    }
+    
+    .my-form .row {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
+    .login-form {
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+    }
+    
+    .login-form .row {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
+    .card-header {
+        padding: .75rem 1.25rem;
+        margin-bottom: 0;
+        background-color: rgba(255, 255, 255, 0.03);
+        font-size: 20px;
+        text-align: center;
+        font-weight: bold;
+    }
+    
+    .col-md-7 .form-group1 {
+        font-size: 20px;
+        padding-top: 20px;
+        font-weight: bolder;
+        align-items: center;
+    }
+    
+    .card-body1 {
+        padding-top: 40px;
+    }
+    
+    h2 {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    
+    .field-icon {
+        float: right;
+        margin-left: -25px;
+        margin-top: -25px;
+        position: relative;
+        z-index: 2;
+    }
